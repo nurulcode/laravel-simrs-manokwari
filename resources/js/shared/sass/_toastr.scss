@@ -1,0 +1,51 @@
+@import "~toastr/build/toastr.min.css";
+
+#toast-container {
+    .toast {
+        background-image: none !important;
+        background-color: #20a8d8;
+        box-shadow: none;
+        opacity   : 1;
+
+        &:before {
+            position: relative;
+            font-family: 'simple-line-icons';
+            font-size: 24px;
+            line-height: 18px;
+            float: left;
+            margin: 13px 0 0 -35px;
+        }
+    }
+
+    .toast-success {
+        background-color: #4dbd74;
+
+        &:before {
+            content: "\e080";
+        }
+    }
+
+    .toast-info {
+        background-color: #63c2de;
+
+        &:before {
+            content: "\e08b";
+        }
+    }
+
+    .toast-warning {
+        background-color: #ffc107;
+
+        &:before {
+            content: "\e01c";
+        }
+    }
+
+    .toast-error {
+        background-color: #f86c6b;
+
+        &:before {
+            content: "\e082";
+        }
+    }
+}

@@ -1,0 +1,44 @@
+.sidebar-minimized {
+    .sidebar .nav-link {
+        display: block;
+    }
+}
+.sidebar {
+    .nav-link {
+        display: flex;
+        width  : 200px;
+    }
+
+    .nav-icon {
+        flex       : 0 0 18px;
+        line-height: 21px;
+    }
+
+    .sidebar-form {
+        border-radius: 3px;
+        border: 1px solid #374850;
+        margin: 10px 10px;
+
+        input[type="text"] {
+            border-top-left-radius: 2px;
+            border-top-right-radius: 0;
+            border-bottom-right-radius: 0;
+            border-bottom-left-radius: 2px;
+            box-shadow: none;
+            background-color: #374850;
+            border: 1px solid transparent;
+            height: 35px;
+        }
+        .btn {
+            box-shadow: none;
+            background-color: #374850;
+            border: 1px solid transparent;
+            height: 35px;
+            color: #999;
+            border-top-left-radius: 0;
+            border-top-right-radius: 2px;
+            border-bottom-right-radius: 2px;
+            border-bottom-left-radius: 0;
+        }
+    }
+}

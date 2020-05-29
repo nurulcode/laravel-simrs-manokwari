@@ -1,0 +1,11 @@
+@import '~flatpickr/dist/flatpickr.min.css';
+
+.flatpickr-wrapper {
+    display : block !important;
+    position: relative;
+    flex: 1;
+}
+
+.flatpickr-input[readonly] {
+    background-color: #fff;
+}

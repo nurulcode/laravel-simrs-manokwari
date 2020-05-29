@@ -1,0 +1,9 @@
+[submodule "containers"]
+	path = containers
+	url = https://github.com/nsetyo/docker-webdev-env.git
+[submodule "resources/js/shared"]
+	path = resources/js/shared
+	url = https://github.com/nsetyo/special-octo-invention.git
+[submodule "shared"]
+	path = shared
+	url = https://github.com/nsetyo/project-helpers.git

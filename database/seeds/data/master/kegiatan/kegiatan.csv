@@ -1,0 +1,373 @@
+1,NULL,Akupuntur Medik
+2,NULL,Anak
+3,NULL,Bedah
+4,NULL,Bedah Anak
+5,NULL,Bedah Orthopedi
+6,NULL,Bedah Saraf
+7,NULL,Day Care
+8,NULL,Digestive
+9,NULL,Geriatri
+10,NULL,Gigi & Mulut
+11,NULL,ICCU
+12,NULL,ICU
+13,NULL,Isolasi
+14,NULL,Jiwa
+15,NULL,Kardiologi
+16,NULL,Kardiovaskuler
+17,NULL,Kebidanan
+18,NULL,Kedokteran Nuklir
+19,NULL,Keluarga Berencana
+20,NULL,Kesehatan Anak
+21,NULL,Kesehatan Anak (Neonatal)
+22,NULL,Kesehatan Anak Lainnya
+23,NULL,Konsultasi Gizi
+24,NULL,Kulit dan Kelamin
+25,NULL,Kusta
+26,NULL,Lain-Lain
+27,NULL,Luka Bakar
+28,NULL,Mata
+29,NULL,Napza
+30,NULL,NICU / PICU
+31,NULL,Non Bedah
+32,NULL,Obstetrik & Ginekologi
+33,NULL,Obstetri
+34,NULL,Ginekologi
+35,NULL,Obstetri & Ginekologi (Ibu Hamil)
+36,NULL,Obstetri & Ginekologi Lainnya
+37,NULL,Paru-paru
+38,NULL,Pelayanan Rawat Darurat
+39,NULL,Penatalaksana Pnyguna. NAPZA
+40,NULL,Penyakit Dalam
+41,NULL,Perinatologi
+42,NULL,Perinatologi/Bayi
+43,NULL,Psikiatrik
+44,NULL,Psikologi
+45,NULL,Radiologi
+46,NULL,Radioterapi
+47,NULL,Rawat Darurat
+48,NULL,Rehabilitasi Medik
+49,NULL,Saraf
+50,NULL,Thorak
+51,NULL,THT
+52,NULL,Umum
+53,NULL,Urologi
+54,NULL,Tumpatan Gigi Tetap
+55,NULL,Tumpatan Gigi Sulung
+56,NULL,Pengobatan Pulpa
+57,NULL,Pencabutan Gigi Tetap
+58,NULL,Pencabutan Gigi Sulung
+59,NULL,Pengobatan Periodontal
+60,NULL,Pengobatan Abses
+61,NULL,Pembersihan Karang Gigi
+62,NULL,Prothese Lengkap
+63,NULL,Prothese Sebagian
+64,NULL,Prothese Cekat
+65,NULL,Orthodonti
+66,NULL,Jacket/Bridge
+67,NULL,Bedah Mulut
+68,NULL,Persalinan Normal
+69,NULL,Sectio caesaria
+70,NULL,Pers dg komplikasi
+71,NULL,Perd sbl Persalinan
+72,NULL,Perd sdh Persalinan
+73,NULL,Pre Eclampsi
+74,NULL,Eclampsi
+75,NULL,Infeksi
+76,NULL,Abortus
+77,NULL,Imunisasi - TT1
+78,NULL,Imunisasi - TT2
+79,NULL,Bayi Lahir Hidup
+80,NULL,>= 2500 gram
+81,NULL,< 2500 gram
+82,NULL,Kematian Perinatal
+83,NULL,Kelahiran Mati
+84,NULL,Mati Neonatal < 7 Hari
+85,NULL,Sebab Kematian
+86,NULL,Asphyxia
+87,NULL,Trauma Kelahiran
+88,NULL,BBLR
+89,NULL,Tetanus Neonatorum
+90,NULL,Kelainan Congenital
+91,NULL,ISPA
+92,NULL,Diare
+93,NULL,Radiodiagnostik Foto Tanpa Bahan Kontras
+94,NULL,Foto Dengan Bahan Kontras
+95,NULL,Foto Dengan Rol Film
+96,NULL,Flouroskopi
+97,NULL,Foto Gigi
+98,NULL,C.T. Scan
+99,NULL,Lymphografi
+100,NULL,Angiograpi
+101,NULL,Radiotherapi Jumlah Kegiatan Radiotherapi
+102,NULL,Kedokteran Nuklir Jumlah Kegiatan Diagnostik
+103,NULL,Jumlah Kegiatan Therapi
+104,NULL,Imaging/pencitraan USG
+105,NULL,MRI
+106,NULL,HEMATOLOGI
+107,NULL,Sitologi Sel Darah
+108,NULL,"Eosinofil, hitung jumlah"
+109,NULL,"Eritrosit, hitung jumlah"
+110,NULL,"Leukosit, hitung jenis"
+111,NULL,"Leukosit, hitung jumlah"
+112,NULL,"Limfosit plasma biru, hitung jumlah"
+113,NULL,Morfologi sel
+114,NULL,"Retikulosit, hitung jumlah"
+115,NULL,"Trombosit, hitung jumlah"
+116,NULL,Sitokimia darah
+117,NULL,"Besi, pewarnaan"
+118,NULL,"Neutrophil Alkaline Phosphatase/NAP, pewarnaan"
+119,NULL,"Nitroblue tetrazoleum, pewarnaan"
+120,NULL,"Periodic Acid Schiff/PAS, pewarnaan"
+121,NULL,"Peroksidase, pewarnaan"
+122,NULL,"Sudan Black B, pewarnaan"
+123,NULL,Analisa Hb
+124,NULL,"Hemoglobin A2, penetapan kadar"
+125,NULL,"Hemoglobin F, identifikasi"
+126,NULL,"Hemoglobin F, penetapan kadar"
+127,NULL,Perbankan Darah
+128,NULL,"Coomb's, percob. direk, indirek"
+129,NULL,"Penetapan gol darah A, B, O, Rh dll"
+130,NULL,Uji saring antibodi pada darah donor
+131,NULL,Uji silang mayor/minor
+132,NULL,Hemostasis
+133,NULL,Agregasi trombosit
+134,NULL,Antitrombin III
+135,NULL,Cryofibrinogen/cryoglobulin
+136,NULL,D Dimer
+137,NULL,Euglobulin Clotlysis
+138,NULL,"Faktor pembekuan V, VII, VIII, IX, X"
+139,NULL,"Faktor pembekuan VIII, IX, X, penetapan kadar"
+140,NULL,"Faktor pembekuan XII, XIII, penetapan kadar"
+141,NULL,Fibrinogen Degradation Product/FDP
+142,NULL,"Fibrinogen, penetapan kadar"
+143,NULL,"Pembekuan, masa"
+144,NULL,"Pembendungan, percobaan"
+145,NULL,"Perdarahan, masa"
+146,NULL,Plasminogen activator inhibitor -1/PAI-1
+147,NULL,Protein C
+148,NULL,Protein S
+149,NULL,"Protrombin plasma, masa"
+150,NULL,Retraksi bekuan
+151,NULL,"Trombin, masa"
+152,NULL,"Trombin, penetapan waktu seri"
+153,NULL,"Tromboplastin, masa partial teraktivasi"
+154,NULL,Trombotest/Owren Test
+155,NULL,Pemeriksaan lain
+156,NULL,"Eritrosit, ketahanan osmotik"
+157,NULL,Ham's test
+158,NULL,"Hematokrit, penetapan nilai"
+159,NULL,Hemoglobin Eritrosit Rata-rata/HER
+160,NULL,Konsentrasi Hemoglobin Eritrosit Rata-rata/KHER
+161,NULL,Laju endapan darah
+162,NULL,Sel L.E.
+163,NULL,Volume Eritrosit Rata-rata/VER
+164,NULL,KIMIA KLINIK
+165,NULL,Protein dan NPN
+166,NULL,Albumin
+167,NULL,Amoniak
+168,NULL,Asam urat
+169,NULL,Bilirubin
+170,NULL,Gamma globulin
+171,NULL,Globulin
+172,NULL,Haptoglobin
+173,NULL,Kreatinin
+174,NULL,Methemoglobin
+175,NULL,Mikroalbumin
+176,NULL,Myoglobin
+177,NULL,Porfirin
+178,NULL,Protein Bence Jones
+179,NULL,Protein Elektroforesis
+180,NULL,Protein Esbach
+181,NULL,"Protein, penetapan kualitatif"
+182,NULL,"Protein, penetapan semikuantitatif"
+183,NULL,"Protein Total, penetapan kuantitatif"
+184,NULL,Urea/BUN
+185,NULL,Urobilin
+186,NULL,Urobilinogen
+187,NULL,Karbohidrat
+188,NULL,Amilum
+189,NULL,Fruktosa
+190,NULL,Galaktosa
+191,NULL,Glukosa
+192,NULL,Laktosa
+193,NULL,"Lipid, Lipoprotein, Apoprotein"
+194,NULL,Apoprotein A/B
+195,NULL,Fosfolipid/serebrosit/sfingolipid
+196,NULL,Kolesterol High Density Lipoprotein (HDL)
+197,NULL,Kolesterol Low Density Lipoprotein (LDL)
+198,NULL,Kolesterol total
+199,NULL,Lipid total
+200,NULL,Lipoprotein (a) / Lp (a)
+201,NULL,Small Dense LDL
+202,NULL,Trigliserida
+203,NULL,Enzim
+204,NULL,Alkali fosfatase
+205,NULL,Aldolase/ALD
+206,NULL,Amilase
+207,NULL,Asam fosfatase
+208,NULL,Cholinesterase
+209,NULL,"Creatinin, Kinase, MB Iso enzym"
+210,NULL,"Creatinin, Phosphokinase CPK-NAC = Creatinin Kinas"
+211,NULL,Gamma GT/Glutamil Transferase
+212,NULL,Glutamat Lakto Dehidrogenase/GLDH
+213,NULL,Glutamat Oksaloasetik Transaminase/GOT=Aspartat Am
+214,NULL,Glutamat Piruvat Transaminase/GPT = Alanin Amino T
+215,NULL,Hidroksi Butirik Dehidrogenase/HBDH
+216,NULL,Isositrat Dehidrogenase/ICD
+217,NULL,Laktat Dehidrogenase/LDH
+218,NULL,Leucine Amino Peptidase/LAP
+219,NULL,Lipase
+220,NULL,Mikronutrient dan Monitoring kadar terapi obat
+221,NULL,Aminofilin/Teofilin
+222,NULL,Asam folat
+223,NULL,"Besi, penetapan kadar"
+224,NULL,Besi - TIBC
+225,NULL,"Besi, unsaturated IBC"
+226,NULL,Digitoksin
+227,NULL,Digoksin
+228,NULL,Fenitoin
+229,NULL,Fenobarbital
+230,NULL,Ferritin
+231,NULL,Iodium
+232,NULL,Isoniazid
+233,NULL,Karbamazepin
+234,NULL,Magnesium
+235,NULL,Metotreksat
+236,NULL,Propanolol
+237,NULL,Seng
+238,NULL,Siklosporin
+239,NULL,Tembaga
+240,NULL,Vitamin A
+241,NULL,Vitamin B12
+242,NULL,Elektrolit
+243,NULL,Fosfat anorganik
+244,NULL,Kalium
+245,NULL,Kalsium
+246,NULL,Klorida
+247,NULL,Natrium
+248,NULL,Magnesium
+249,NULL,Fungsi Organ
+250,NULL,Asam laktat
+251,NULL,Creatinin clearance
+252,NULL,Cystatin C
+253,NULL,Indeks ikterus
+254,NULL,Insulin clearance
+255,NULL,Insulin dalam plasma
+256,NULL,Kalsium
+257,NULL,"Lemak, tes absorbsi"
+258,NULL,Urea clearance
+259,NULL,Hormon dan Fungsi Endokrin
+260,NULL,Adenocorticotropin Hormon/ACTH
+261,NULL,Anti Diuretik Hormon/ADH Respon
+262,NULL,Aldosteron
+263,NULL,Calcitonin
+264,NULL,C Peptide
+265,NULL,Estrogen
+266,NULL,"Estradiol, 17 Beta"
+267,NULL,Follicle Stimulating Hormon
+268,NULL,Fruktosamin
+269,NULL,Gastrin
+270,NULL,Glucocorticoid
+271,NULL,Growth Hormon
+272,NULL,Hb glikosilat/HbA1c
+273,NULL,Human Chorionic Gonadotropin/HCG
+274,NULL,Insulin Growth Factor 1 / IGF1
+275,NULL,Iodine uptake dan saturasi/T3 dan T4 uptake
+276,NULL,Insulin
+277,NULL,Keton
+278,NULL,Kortisol
+279,NULL,Luteinizing Hormon/LH
+280,NULL,"Pankreas, fungsi dengan tes triolen"
+281,NULL,Pregnandiol
+282,NULL,Progesteron
+283,NULL,Prolaktin
+284,NULL,Renin
+285,NULL,Testosteron
+286,NULL,Thyroglobulin
+287,NULL,Thyroxin dalam serum/T4
+288,NULL,Thyrotropic Release Factor Assay
+289,NULL,Thyroid Stimulating Hormon/TSH
+290,NULL,"Thyroid, tes fungsi yang lain"
+291,NULL,Vinyl Mandelic Acid/VMA
+292,NULL,Pemeriksaan Lain
+293,NULL,Analisa batu
+294,NULL,Analisa cairan otak
+295,NULL,Analisa cairan sendi
+296,NULL,Analisa cairan tubuh
+297,NULL,"Analisa sperma:volume, bau, warna, liquefaksi, vis"
+298,NULL,"Analisa tinja: sel darah, lemak, sisa makanan"
+299,NULL,Hemosiderin
+300,NULL,Homosistein
+301,NULL,Oval fat bodies
+302,NULL,"Sel, hitung jenis"
+303,NULL,"Sel, hitung jumlah"
+304,NULL,Tes kehamilan
+305,NULL,Troponin T/I
+306,NULL,Urinalisis
+307,NULL,Medis
+308,NULL,Gait Analyzer
+309,NULL,E M G
+310,NULL,Uro Dinamic
+311,NULL,Side Back
+312,NULL,E N Tree
+313,NULL,Spyrometer
+314,NULL,Static Bicycle
+315,NULL,Tread Mill
+316,NULL,Body Platysmograf
+317,NULL,Fisioterapi
+318,NULL,Latihan Fisik
+319,NULL,Aktinoterapi
+320,NULL,Elektroterapi
+321,NULL,Hidroterapi
+322,NULL,Traksi Lumbal & Cervical
+323,NULL,Okupasiterapi
+324,NULL,Snoosien Room
+325,NULL,Sensori Integrasi
+326,NULL,Latihan aktivitas kehidupan sehari-hari
+327,NULL,Proper Body Mekanik
+328,NULL,Pembuatan Alat Lontar & Adaptasi Alat
+329,NULL,Analisa Persiapan Kerja
+330,NULL,Latihan Relaksasi
+331,NULL,"Analisa & Intervensi, Persepsi, Kognitif, Psikomot"
+332,NULL,Terapi Wicara
+333,NULL,Fungsi Bicara
+334,NULL,Fungsi Bahasa / Laku
+335,NULL,Fungsi Menelan
+336,NULL,Psikolog Anak
+337,NULL,Psikolog Dewasa
+338,NULL,Sosial Medis
+339,NULL,Evaluasi Lingkungan Rumah
+340,NULL,Evaluasi Ekonomi
+341,NULL,Evaluasi Pekerjaan
+342,NULL,Ortotik Prostetik
+343,NULL,Pembuatan Alat Bantu
+344,NULL,Pembuatan Alat Anggota Tiruan
+345,NULL,Kunjungan Rumah
+346,NULL,Elektro Kardiographi (EKG)
+347,NULL,Elektro Myographi (EMG)
+348,NULL,Echo Cardiographi (ECG)
+349,NULL,Endoskopi (semua bentuk)
+350,NULL,Hemodialisa
+351,NULL,Densometri Tulang
+352,NULL,Pungsi
+353,NULL,Spirometri
+354,NULL,Tes Kulit/Alergi/Histamin
+355,NULL,Topometri
+356,NULL,Akupuntur
+357,NULL,Hiperbarik
+358,NULL,Herbal / Jamu
+359,NULL,Psikotes
+360,NULL,Konsultasi
+361,NULL,Terapi Medikamentosa
+362,NULL,Elektro Medik
+363,NULL,Psikoterapi
+364,NULL,Play Therapy
+365,NULL,Rehabilitasi Medik Psikiatrik
+366,NULL,IUD
+367,NULL,Pil
+368,NULL,Kondom
+369,NULL,Obat Vaginal
+370,NULL,MO Pria
+371,NULL,MO Wanita
+372,NULL,Suntikan
+373,NULL,Implant

@@ -1,0 +1,86 @@
+@import "~vue-multiselect/dist/vue-multiselect.min.css";
+
+.multiselect--active {
+    z-index: 9!important;
+}
+
+.multiselect {
+    min-height: 35px;
+}
+
+.multiselect {
+    .multiselect__single, .multiselect__tags,
+    .multiselect__input, .multiselect__option {
+        font-size: 0.875rem;
+    }
+    .multiselect__tags {
+        min-height   : 35px;
+        padding      : 0.375rem 2.75rem 0.375rem 0.75rem;
+        border-radius: .25rem;
+
+        .multiselect__tag {
+            line-height: inherit;
+        }
+        .multiselect__tag-icon:after {
+            font-size  : 1rem;
+            line-height: 1.7rem;
+        }
+
+        .multiselect__single,
+        .multiselect__placeholder {
+            white-space: nowrap;
+            overflow   : hidden;
+        }
+        .multiselect__placeholder {
+            display: inline;
+        }
+    }
+    .multiselect__select {
+        height: 33px;
+        top   : 1px;
+        right : 2px;
+    }
+    .multiselect__select::before {
+        top: 75%;
+    }
+    .multiselect__input,
+    .multiselect__single {
+        color: #5c6873;
+    }
+    .multiselect__single,
+    .multiselect__placeholder {
+        margin-bottom: 0;
+        padding: 0;
+    }
+    .multiselect__option {
+        padding: 12px 0.75rem;
+    }
+}
+
+.multiselect--active {
+    .multiselect__input {
+        margin-bottom: 0;
+        padding: 0;
+        width  : 90% !important;
+    }
+}
+
+.multiselect--disabled {
+    background: transparent;
+    opacity: 1;
+
+    .multiselect__tags,
+    .multiselect__select {
+        background: #e4e7ea;
+    }
+    .multiselect__single {
+        background: transparent;
+        color: #5c6873;
+    }
+}
+
+.form-group.is-invalid {
+    .multiselect__tags {
+        border-color: #f86c6b;
+    }
+}

@@ -1,0 +1,35 @@
+1,POLI1,Poliklinik Interna/Penyakit dalam,1
+2,POLI2,Poliklinik Bedah,1
+3,POLI3,Poliklinik Gigi,1
+4,POLI4,Poliklinik Mata,1
+5,POLI5,Poliklinik Anak,1
+6,POLI6,Poliklinik Dewasa / Umum,1
+7,POLI7,Poliklinik Kulit Kelamin,1
+8,POLI8,Poliklinik Obstetri dan Gynekologi,1
+9,POLI9,Poliklinik Paru,1
+14,R.INAP1,ICU,3
+15,R.INAP2,Perawatan Penyakit Dalam / Melati,3
+16,R.INAP3,Perawatan Bedah / Mawar,3
+17,R.INAP4,Perawatan Kelas 1 / VIP Dahlia,3
+18,R.INAP5,Perawatan Bersalin / Obgyn,3
+19,R.INAP6,Perawatan Neonatus / Bayi,3
+20,R.INAP7,Perawatan Anak,3
+23,IGD,IGD,2
+24,RDLG,Radiologi,5
+25,LBRTM,Laboratorium,4
+26,OK,Kamar Operasi,7
+27,GZ,Gizi,12
+28,IPSRS,IPSRS,12
+31,FSTRP,Fisiotherapi,6
+32,RKMMDK,Rekam Medik,12
+33,GDG,Gudang,12
+34,Ap.Um,Apotek Umum,11
+37,Ap.RI,Depo Rawat Inap,11
+39,INRTR,Insenerator,8
+40,UTDRS,UTDRS,9
+41,KJ,Kamar Jenazah,10
+43,BDRS,BDRS,9
+44,Ap.UGD,Depo UGD,11
+45,MCU,Medical Check Up,6
+46,Ap. Gd,Gudang Farmasi,11
+47,IGD VK,IGD VK / BERSALIN,2

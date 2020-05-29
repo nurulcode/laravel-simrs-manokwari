@@ -1,0 +1,315 @@
+-
+  title : Main Navigation
+  type  : header
+-
+  title : Beranda
+  link  : /
+  icon  : icon-speedometer
+-
+  title      : Daftar Kunjungan
+  icon       : icon-calendar
+  permissions:
+    - manage_rawat_jalan
+    - manage_rawat_darurat
+    - manage_rawat_inap
+  childs:
+    -
+      title      : Rawat Jalan
+      link       : perawatan/rawat-jalan
+      permissions:
+        - manage_rawat_jalan
+    -
+      title      : Rawat Inap
+      link       : perawatan/rawat-inap
+      permissions:
+        - manage_rawat_inap
+    -
+      title      : Rawat Darurat (IGD)
+      link       : perawatan/rawat-darurat
+      permissions:
+        - manage_rawat_darurat
+-
+  title      : Keuangan
+  icon       : fa fa-money
+  permissions:
+    - manage_kunjungan
+  childs:
+  -
+      title      : Kasir Umum
+      link       : kunjungan
+      permissions:
+        - manage_kunjungan
+# ------------------------------------ #
+# ------- R E G I S T R A S I -------- #
+# ------------------------------------ #
+-
+  title      : Registrasi
+  icon       : icon-briefcase
+  permissions:
+    - manage_registrasi
+    - manage_rawat_jalan
+    - manage_rawat_darurat
+    - manage_rawat_inap
+  childs:
+    -
+      title      : Reg. Rawat Jalan
+      link       : perawatan/rawat-jalan/create
+      permissions:
+        - manage_registrasi
+        - manage_rawat_jalan
+    -
+      title      : Reg. Rawat Inap
+      link       : perawatan/rawat-inap/create
+      permissions:
+        - manage_registrasi
+        - manage_rawat_inap
+    -
+      title      : Reg. Rawat Darurat (IGD)
+      link       : perawatan/rawat-darurat/create
+      permissions:
+        - manage_registrasi
+        - manage_rawat_darurat
+-
+  title      : Instalasi Penunjang
+  icon       : icon-briefcase
+  permissions:
+    - manage_laboratorium
+    - manage_radiologi
+    - manage_operasi
+    - manage_insenerator
+    - manage_utdrs
+    - manage_kamar_jenazah
+  childs:
+    -
+      title      : Laboratorium
+      link       : penunjang/laboratorium
+      permissions:
+        - manage_laboratorium
+    -
+      title      : Radiologi
+      link       : penunjang/radiologi
+      permissions:
+        - manage_radiologi
+    -
+      title      : Rehabilitasi Medik
+      link       : penunjang/rehabilitasi-medik
+      permissions:
+        - manage_rehabilitasi_medik
+    -
+      title      : Operasi
+      link       : penunjang/operasi
+      permissions:
+        - manage_operasi
+    -
+      title      : Insenerator
+      link       : penunjang/insenerator
+      permissions:
+        - manage_insenerator
+    -
+      title      : UTDRS
+      link       : penunjang/utdrs
+      permissions:
+        - manage_utdrs
+    -
+      title      : Kamar Jenazah
+      link       : penunjang/kamar-jenazah
+      permissions:
+        - manage_kamar_jenazah
+
+-
+  title      : Farmasi dan Logistik
+  icon       : icon-social-dropbox
+  permissions:
+    - manage_apotek
+    - manage_logistik
+  childs:
+    -
+      title      : Apotek Pasien Perawatan
+      link       : penunjang/apotek
+      permissions:
+        - manage_apotek
+    -
+      title      : Daftar Logistik
+      link       : logistik
+      permissions:
+        - manage_logistik
+    -
+      title      : Daftar Stock
+      link       : logistik/stock
+      permissions:
+        - manage_logistik
+    -
+      title      : Daftar Suplier
+      link       : suplier
+      permissions:
+        - manage_logistik
+    -
+      title      : Daftar Penerimaan
+      link       : logistik/penerimaan
+      permissions:
+        - manage_logistik
+
+# ------------------------------------ #
+# ----------- A D M I N -------------- #
+# ------------------------------------ #
+-
+  title      : Admin Area
+  type       : header
+  permissions:
+    - manage_pasien
+    - manage_kepegawaian
+    - manage_tarif
+    - manage_fasilitas
+    - manage_master_data
+-
+  title      : Daftar Pasien
+  icon       : icon-people
+  link       : pasien
+  permissions:
+    - manage_pasien
+-
+  title      : Daftar Pegawai
+  icon       : fa fa-stethoscope
+  link       : kepegawaian
+  permissions:
+    - manage_kepegawaian
+-
+  title      : Daftar Tarif
+  link       : tarif
+  icon       : icon-credit-card
+  permissions:
+    - manage_tarif
+-
+  title      : Poliklinik/Ruangan
+  icon       : fa fa-hospital-o
+  link       : fasilitas
+  permissions:
+    - manage_fasilitas
+-
+  title : Master Data
+  icon  : icon-grid
+  permissions:
+    - manage_master_data
+  childs:
+    -
+      title: Daftar Agama
+      link : master/agama
+    -
+      title: Daftar Cara Pembayaran
+      link : master/cara-pembayaran
+    -
+      title: Daftar Gizi
+      link : master/gizi
+    -
+      title: Daftar Insenerator
+      link : master/insenerator
+    -
+      title: Daftar Kasus
+      link : master/kasus
+    -
+      title: Daftar Kegiatan
+      link : master/kegiatan
+    -
+      title: Daftar Oksigen
+      link : master/oksigen
+    -
+      title: Daftar Pekerjaan
+      link : master/pekerjaan
+    -
+      title: Daftar Pemeriksaan Jenazah
+      link : master/pemeriksaan-jenazah
+    -
+      title: Daftar Pemeriksaan Umum
+      link : master/pemeriksaan-umum
+    -
+      title: Daftar Pendidikan
+      link : master/pendidikan
+    -
+      title: Daftar Perawatan Khusus
+      link : master/perawatan-khusus
+    -
+      title: Daftar Penyakit
+      link : master/penyakit
+    -
+      title: Daftar Prosedur
+      link : master/prosedur
+    -
+      title: Daftar Suku
+      link : master/suku
+    -
+      title: Daftar Tindakan
+      link : master/tindakan
+    -
+      title: Daftar Tindakan Operasi
+      link : master/tindakan-operasi
+    -
+      title: Daftar Tipe Diagnosa
+      link : master/tipe-diagnosa
+    -
+      title: Daftar UTDRS
+      link : master/utdrs
+    -
+      title: Daftar Wilayah
+      link : master/wilayah
+    -
+      title: Jenis Identitas
+      link : master/jenis-identitas
+    -
+      title: Jenis Laundry
+      link : master/jenis-laundry
+    -
+      title: Jenis Logistik
+      link : master/jenis-logistik
+    -
+      title: Jenis Poliklinik
+      link : master/jenis-poliklinik
+    -
+      title: Jenis Registrasi
+      link : master/jenis-registrasi
+    -
+      title: Jenis Rujukan
+      link : master/jenis-rujukan
+    -
+      title: Jenis Visite
+      link : master/jenis-visite
+    # -
+    #   title: Jenis Rumah Sakit
+# -
+  # title : Data Rumah Sakit
+  # icon  : fa fa-hospital-o
+
+# ------------------------------------ #
+# ---------- S Y S T E M ------------- #
+# ------------------------------------ #
+-
+  title      : System
+  type       : header
+  permissions:
+    - manage_user
+    - manage_role
+    - manage_permission
+    - view_activities_page
+-
+  title      : Users
+  link       : user
+  icon       : icon-people
+  permissions:
+    - manage_user
+-
+  title      : Roles
+  link       : role
+  icon       : icon-shield
+  permissions:
+    - manage_role
+-
+  title      : Permissions
+  link       : permission
+  icon       : icon-lock-open
+  permissions:
+    - manage_permission
+-
+  title      : Activities
+  link       : activities
+  icon       : fa fa-history
+  permissions:
+    - view_activities_page

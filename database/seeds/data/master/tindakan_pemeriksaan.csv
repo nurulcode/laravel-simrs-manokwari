@@ -1,0 +1,428 @@
+"1",NULL,"THT","Poli THT","1",NULL
+"2","1","THT.1","Tampon Telinga","1",NULL
+"3","1","THT.2","Tampon Burowi","1",NULL
+"4","1","THT.3","Spooling/Irigasi telinga","1",NULL
+"5","1","THT.4","Kausting Faring","1",NULL
+"6","1","THT.5","Oles Anti Jamur/Anti Inflamasi","1",NULL
+"7","1","THT.6","Parasintesis/Myringitomi","1",NULL
+"8","1","THT.7","Tes Garpu Tala","1",NULL
+"9","1","THT.8","Audiometri Nada Murni","1",NULL
+"10","1","THT.9","Timpanometri","1",NULL
+"11","1","THT.10","Ekstraksi Corpus Alienum Telinga","1",NULL
+"12","1","THT.11","Ekstraksi Corpus Alienum Hidung","1",NULL
+"13","1","THT.12","Ekstraksi Corpus Alienum Orofaring","1",NULL
+"14","1","THT.13","Ekstraksi Corpus Alienum Laring","1",NULL
+"15","1","THT.14","Laringoskopi indirect","1",NULL
+"16","1","THT.15","Ekstraksi rinolith","1",NULL
+"17","1","THT.16","Extraksi Polip Meatus Akustikus Eksterna","1",NULL
+"18","1","THT.17","Ekstaraksi Granulasi Meatus Akustikus Eksterna","1",NULL
+"19","1","THT.18","Kausti Telinga","1",NULL
+"20","1","THT.19","Tampon/Sparay Hidung","1",NULL
+"21","1","THT.20","Toilet Cavum Nasi","1",NULL
+"22","1","THT.21","Irigasi Sinus","1",NULL
+"23","1","THT.22","Tes Alergi ( Prick test )","1",NULL
+"24","1","THT.23","Hemlich Manuever","1",NULL
+"25","1","THT.24","Eplay Manuever","1",NULL
+"26","1","THT.25","Ekstraksi Keratosis Obturans","1",NULL
+"27","1","THT.26","Cuci Kanul Trakeostomi","1",NULL
+"28","1","THT.27","Tampon Boorzalf","1",NULL
+"29","1","THT.28","Tampon Bellock","1",NULL
+"30","1","THT.29","Aspirasi Abses","1",NULL
+"31","1","THT.30","Insisi abses peritonsiler","1",NULL
+"32","1","THT.31","Ganti Verban","1",NULL
+"33","1","THT.32","Aff Heacting","1",NULL
+"34","1","THT.33","Diagnostic Via Endoscopic Fleksibel","1",NULL
+"35","1","THT.34","Injeksi Kortikosteroid","1",NULL
+"36",NULL,"Dewasa","Poli Dewasa","1",NULL
+"37","36","Dewasa.2","Pemeriksaan Umum","2",NULL
+"38","36","Dewasa.3","Tindakan","1",NULL
+"39",NULL,"Gigi","Poli Gigi","1",NULL
+"40","39","Gigi.1","Pembersihan Karang Gigi/rahang Sedikit","1",NULL
+"41","39","Gigi.2","Pembersihan Karang Gigi/rahang Banyak","1",NULL
+"42","39","Gigi.3","Ekstraski / Operasi Gigi sulung / Chloraetyl","1",NULL
+"43","39","Gigi.4","Ekstraski / Operasi Gigi sulung / Citiject","1",NULL
+"44","39","Gigi.5","Ekstraski Gigi Permanenet Normal","1",NULL
+"45","39","Gigi.6","Ekstraski Gigi Permanent Komplikasi","1",NULL
+"46","39","Gigi.7","Ekstraski / Operasi Odontektomi tanpa kompilasi","1",NULL
+"47","39","Gigi.8","Ekstraski / Operasi Odontektomi dengan komplikasi","1",NULL
+"48","39","Gigi.9","Ekstraski / Operasi Alveolectomi per kwadran","1",NULL
+"49","39","Gigi.10","Ekstraski / Operasi Insisi Abses","1",NULL
+"50","39","Gigi.11","Ekstraski / Operasi Operasi kista","1",NULL
+"51","39","Gigi.12","Ekstraski / Operasi Fraktur Rahang","1",NULL
+"52","39","Gigi.13","Ekstraski / Operasi Epulis","1",NULL
+"53","39","Gigi.14","Konservasi Perawatan Saluran Akar","1",NULL
+"54","39","Gigi.15","Konservasi Perawatan Pulpa Capping","1",NULL
+"55","39","Gigi.16","Konservasi Tambalan Sinar","1",NULL
+"56","39","Gigi.17","Konservasi Tumpatan Amalgam","1",NULL
+"57","39","Gigi.18","Konservasi Tumpatan Komsit / Silikat","1",NULL
+"58","39","Gigi.19","Konservasi Tumpatan Glass Lonomer","1",NULL
+"59","39","Gigi.20","Konservasi Polis tambalan","1",NULL
+"60","39","Gigi.21","Protesa Gigi Pertama","1",NULL
+"61","39","Gigi.22","Protesa Gigi ke 2-8 Tambah/gigi","1",NULL
+"62","39","Gigi.23","Protesa Gigi ke 9-14/ full Perahang","1",NULL
+"63","39","Gigi.24","Kontrol Protesa","1",NULL
+"64","39","Gigi.25","Crown dan bridge Acrylik per unit","1",NULL
+"65","39","Gigi.26","Crown dan bridge Porcelain per unit","1",NULL
+"66","39","Gigi.27","Prthodenthic Fixed Rahang atas / rahang bawah","1",NULL
+"67","39","Gigi.28","Prthodenthic Fixed Rahang atas + rahang bawah","1",NULL
+"68","39","Gigi.29","Hecting","1",NULL
+"69",NULL,"Interna","Poli Interna","1",NULL
+"70","69","Interna.1","Rectal Toucher","1",NULL
+"71","69","Interna.2","Pemeriksaan EKG","1",NULL
+"72","69","Interna.3","Spirometri","1",NULL
+"73","69","Interna.4","Punksi cairan pleura","1",NULL
+"74","69","Interna.5","Punksi cairan asites","1",NULL
+"75","69","Interna.6","Parasentesis","1",NULL
+"76","69","Interna.7","Evakuasi cairan pleura","1",NULL
+"77",NULL,"Mata","Poli Mata","1",NULL
+"78","77","Mata.1","Refraksi","1",NULL
+"79","77","Mata.2","Slit Lamp Examination","1",NULL
+"80","77","Mata.3","Tonemetri","1",NULL
+"81","77","Mata.4","Funduscopy","1",NULL
+"82","77","Mata.5","Koreksi Kaca Mata","1",NULL
+"83","77","Mata.6","Ganti Verban","1",NULL
+"84","77","Mata.7","Epilasi Bulu Mata","1",NULL
+"85","77","Mata.8","Test Buta Warna","1",NULL
+"86","77","Mata.9","Spooling Bola Mata","1",NULL
+"87","77","Mata.10","Biometri","1",NULL
+"88","77","Mata.11","Keratometri","1",NULL
+"89","77","Mata.12","Sondage Canalculi Lacrimali/Tes Anel","1",NULL
+"90",NULL,"TNO","Tindakan Non Operatif","1",NULL
+"91","90","TNO.1","Extravtie corpus alienum","1",NULL
+"92","90","TNO.2","Tampon hidung","1",NULL
+"93","90","TNO.3","Skin traction","1",NULL
+"94","90","TNO.4","Pasang skeletal traction","1",NULL
+"95","90","TNO.5","Pasang gips tanpa narkose Fore arm slab","1",NULL
+"96","90","TNO.6","Pasang gips tanpa narkose U-Slab","1",NULL
+"97","90","TNO.7","Pasang gips tanpa narkose Aspirasi Sendi","1",NULL
+"98","90","TNO.8","Pasang gips tanpa narkose Long arm plester","1",NULL
+"99","90","TNO.9","Pasang gips tanpa narkose Short leg plester","1",NULL
+"100","90","TNO.10","Pasang gips tanpa narkose Long leg plester","1",NULL
+"101","90","TNO.11","Pasang gips tanpa narkose Sarmento plesters","1",NULL
+"102","90","TNO.12","Pasang gips tanpa narkose Body jaket gips","1",NULL
+"103","90","TNO.13","Pasang gips tanpa narkose Spica gips","1",NULL
+"104","90","TNO.14","Pasang gips tanpa narkose Uip gips","1",NULL
+"105","90","TNO.15","Pasang gips tanpa narkose Cabut Screw","1",NULL
+"106","90","TNO.16","Pasang gips tanpa narkose Cabut K. Wire","1",NULL
+"107","90","TNO.17","Pasang gips tanpa narkose Cabut  Wire","1",NULL
+"108","90","TNO.18","Pasang gips tanpa narkose Buka gips","1",NULL
+"109","90","TNO.19","kumbah Lambung","1",NULL
+"110","90","TNO.20","Nebuliser","1",NULL
+"111","90","TNO.21","Punctie Pleura","1",NULL
+"112","90","TNO.22","Evakuasi Cairan Pleura","1",NULL
+"113","90","TNO.23","Punctie Cairan asites","1",NULL
+"114","90","TNO.24","Parasentesis","1",NULL
+"115","90","TNO.25","Blast Punctie","1",NULL
+"116","90","TNO.26","Punctie Pericaed","1",NULL
+"117","90","TNO.27","Resusitasi Cardio Pulmonal ","1",NULL
+"118","90","TNO.28","Subdural Tab","1",NULL
+"119","90","TNO.29","Tampon Belloque","1",NULL
+"120","90","TNO.30","Pasang body cast","1",NULL
+"121","90","TNO.31","Suntik konakort pada lesi ","1",NULL
+"122","90","TNO.32","Biopsi jarum","1",NULL
+"123","90","TNO.33","Biopsi permukaan","1",NULL
+"124","90","TNO.34","Incisi Ganed","1",NULL
+"125","90","TNO.35","Corpus Alineum cornea","1",NULL
+"126","90","TNO.36","Ganti verband / rawat luka Luka Kecil","1",NULL
+"127","90","TNO.37","Ganti verband / rawat luka Luka Sedang","1",NULL
+"128","90","TNO.38","Ganti verband / rawat luka Luka Besar","1",NULL
+"129","90","TNO.39","Injeksi","1",NULL
+"130","90","TNO.40","Aff Hecting","1",NULL
+"131","90","TNO.41","Biopsi jaringan","1",NULL
+"132","90","TNO.42","Pasang Laminaria Stift","1",NULL
+"133","90","TNO.43","Induksi Persalinan","1",NULL
+"134","90","TNO.44","Partus Patologis","1",NULL
+"135","90","TNO.45","Partus Perpaginam Normal","1",NULL
+"136","90","TNO.46","Eksterpasi Kecil","1",NULL
+"137","90","TNO.47","Eksterpasi Besar","1",NULL
+"138","90","TNO.48","Perawatan Bayi Incubator","1",NULL
+"139","90","TNO.49","Embnotomi","1",NULL
+"140","90","TNO.50","Secunder Hecting","1",NULL
+"141","90","TNO.51","Pemasangan infus intravena","1",NULL
+"142","90","TNO.52","Pemasangan kateter urethra","1",NULL
+"143","90","TNO.53","Pemasangan  Transfusi Darah","1",NULL
+"144","90","TNO.54","Perawatan Payudara","1",NULL
+"145","90","TNO.55","Vaginal Toucher","1",NULL
+"146","90","TNO.56","Punctie  lumbal","1",NULL
+"147","90","TNO.57","Vacuum Extraksi","1",NULL
+"148","90","TNO.58","Manual Placenta","1",NULL
+"149","90","TNO.59","Feeding tube (pemberian makanan melalui NGT )","1",NULL
+"150","90","TNO.60","Pemasangan naso gastric tube (NGT)","1",NULL
+"151","90","TNO.61","klisma/Hukna","1",NULL
+"152","90","TNO.62","Tampon Vagina","1",NULL
+"153","90","TNO.63","Enukleasi sedikit","1",NULL
+"154","90","TNO.64","Enukleasi Banyak","1",NULL
+"155","90","TNO.65","Feeling AHA","1",NULL
+"156","90","TNO.66","Dermabrasi (sedikit)","1",NULL
+"157","90","TNO.67","Dermabrasi (luas)","1",NULL
+"158","90","TNO.68","KOH","1",NULL
+"159","90","TNO.69","BTA","1",NULL
+"160","90","TNO.70","TCA tanpa Feeling","1",NULL
+"161","90","TNO.71","TCA Feeling","1",NULL
+"162","90","TNO.72","Inj. Intra lesi tanpa obat","1",NULL
+"163","90","TNO.73","Pemberian Kloroetil (sedikit)","1",NULL
+"164","90","TNO.74","Pemberian Kloeteril (banyak)","1",NULL
+"165","90","TNO.75","Sirkumsisi dengan indikasi medis","1",NULL
+"166","90","TNO.76","Sirkumsisi Biasa","1",NULL
+"167","90","TNO.77","Aplikasi Nitrogen Cair Kecil","1",NULL
+"168","90","TNO.78","Aplikasi Nitrogen Cair Besar","1",NULL
+"169","90","TNO.79","Suction ( per hari )","1",NULL
+"170","90","TNO.80","Personal Hygine","1",NULL
+"171","90","TNO.81","Intubasi ","1",NULL
+"172","90","TNO.82","Ambulatory","1",NULL
+"173","39","Gigi.31","Overculektomi","1",NULL
+"174","39","Gigi.33","Dislokasi TMJ","1",NULL
+"175","39","Gigi.32","Dry Socket","1",NULL
+"176","39","Gigi.34","Ekstraski / Operasi Insisi Extra Oral","1",NULL
+"177",NULL,"Obgyn","Perawatan Obgyn","1",NULL
+"178","177","Obgyn.1","Persalinan pervaginam normal","1",NULL
+"179","177","Obgyn.2","Persalinan Patologis","1",NULL
+"180","177","Obgyn.3","Induksi Persalinan","1",NULL
+"181","177","Obgyn.4","Tindakan Kuret","1",NULL
+"182","177","Obgyn.5","Tindakan Kuret Dengan Penyulit","1",NULL
+"183","177","Obgyn.6","Pemasangan Laminaria","1",NULL
+"184","177","Obgyn.7","Pemasangan Infus intravena","1",NULL
+"185","177","Obgyn.8","Pemasangan Kateter urine","1",NULL
+"186","177","Obgyn.9","Aff Kateter","1",NULL
+"187","177","Obgyn.10","Aff Heachting","1",NULL
+"188","177","Obgyn.11","Episiotomy/heacting perineum","1",NULL
+"189","177","Obgyn.12","Tampon vagina","1",NULL
+"190","177","Obgyn.13","Tampon uterus","1",NULL
+"191","177","Obgyn.14","Hukna / klisma","1",NULL
+"192","177","Obgyn.15","Pemasangan Transfusi darah","1",NULL
+"193","177","Obgyn.16","Aff drain","1",NULL
+"194","177","Obgyn.17","Jahit portio","1",NULL
+"195","177","Obgyn.18","Jahit robekan forniks","1",NULL
+"196","177","Obgyn.19","Vakum ekstraksi","1",NULL
+"197","177","Obgyn.20","Ekstraksi forceps","1",NULL
+"198","177","Obgyn.21","Embriotomi","1",NULL
+"199","177","Obgyn.22","Manual plasenta","1",NULL
+"200","177","Obgyn.23","Perawatan Payudara","1",NULL
+"201",NULL,"Anak","Perawatan Anak","1",NULL
+"202","201","Anak.1","Pemasangan O2","1",NULL
+"203","201","Anak.2","Injeksi","1",NULL
+"204","201","Anak.3","Nebulizer","1",NULL
+"205","201","Anak.4"," Suction ( per hari )","1",NULL
+"206","201","Anak.5","Aff Hecting","1",NULL
+"207","201","Anak.6","Pasang Kateter","1",NULL
+"208","201","Anak.7","Aff Kateter","1",NULL
+"209","201","Anak.8","Pemasangan Naso gastrik tube","1",NULL
+"210","201","Anak.9","Kumbah lambung","1",NULL
+"211","201","Anak.10","Pemasangan infus Pada Anak","1",NULL
+"212","201","Anak.11","Pasang Infus Pada Pasien  Shock/Dehidrasi Berat","1",NULL
+"213","201","Anak.12","Vena seksi","1",NULL
+"214","201","Anak.13","Pemasangan Endrotracheal Tube","1",NULL
+"215","201","Anak.14","Debridemen Luka Lecet/Ringan","1",NULL
+"216","201","Anak.15","Debrideben Luka Lecet Sedang","1",NULL
+"217","201","Anak.16","Debrideben Luka Lecet Luas/Berat","1",NULL
+"218","201","Anak.17","Debrideme Luka Bakar 1-27%","1",NULL
+"219","201","Anak.18","Debridemen Luka Bakar 27 -50%","1",NULL
+"220","201","Anak.19","Debridemen Luka Bakar> 50%","1",NULL
+"221","201","Anak.20","Debridemen Luka Infeksi","1",NULL
+"222","201","Anak.21","Perawatan Kantong Kolostomi","1",NULL
+"223","201","Anak.22","Personal hygiene","1",NULL
+"224","201","Anak.23","Infus Pump (per hari)","1",NULL
+"225","201","Anak.24","Penanganan Kejang demam","1",NULL
+"226","201","Anak.25","Tuberkulintes","1",NULL
+"227","201","Anak.26","Pemeriksaan Tumbuh Kembang","1",NULL
+"228","201","Anak.27","Rumplet test","1",NULL
+"229","201","Anak.28","Pemeriksaan Status Gizi","1",NULL
+"230","201","Anak.29","Syeringe Pump ( per hari )","1",NULL
+"231","201","Anak.30","Infan warmer","1",NULL
+"232","201","Anak.31","Resusitasi Jantung paru","1",NULL
+"233","201","Anak.32","INK","1",NULL
+"234",NULL,"Bayi","Neonatus","1",NULL
+"235","234","Bayi.1","Perawatan Bayi Inkubator/ Hari","1",NULL
+"236","234","Bayi.2","Perawatan Bayi Patologis/Hari","1",NULL
+"237","234","Bayi.3","Perawatan Bayi Patologis(NICU)/Hari","1",NULL
+"238","234","Bayi.4","Pemasangan Naso gastrik Tube","1",NULL
+"239","234","Bayi.5","Pemb.Makanan Personde/Hari","1",NULL
+"240","234","Bayi.6","Foto Terapi","1",NULL
+"241","234","Bayi.7","Pemasangan Infus Bayi","1",NULL
+"242","234","Bayi.8","Resusitasi jantung paru","1",NULL
+"243","234","Bayi.9","Vena secti","1",NULL
+"244","234","Bayi.10","Perawatan Metode Kanguru (paket)","1",NULL
+"245","234","Bayi.11","Neo PUFF","1",NULL
+"246","234","Bayi.12","Suction perhari","1",NULL
+"247","234","Bayi.13","Pemasangan O2","1",NULL
+"248","234","Bayi.14","Injeksi","1",NULL
+"249","234","Bayi.15","Pemasangan Endotraheal tube pada Neonatus","1",NULL
+"250","234","Bayi.16","Perawatan Tali Pusat","1",NULL
+"251","234","Bayi.17","Memandikan Bayi","1",NULL
+"252","234","Bayi.18","Pijat Bayi","1",NULL
+"253",NULL,"IGD","Instalasi Gawat Darurat","1",NULL
+"254","253","IGD.1","Pemasangan infus intravena","1",NULL
+"255","253","IGD.2","Injeksi","1",NULL
+"256","253","IGD.3","Heacting 1 â€“ 5","1",NULL
+"257","253","IGD.4","Heacting lebih dari 6","1",NULL
+"258","253","IGD.5","Akomodasi per hari","1",NULL
+"259","253","IGD.6","Observasi pasien 6-8","1",NULL
+"260","253","IGD.7","Ambulatory","1",NULL
+"261","253","IGD.8","Pemasangan kateter uretra","1",NULL
+"262","253","IGD.9","Pemasangan Naso gastrik Tube ","1",NULL
+"263","253","IGD.10","Kumbah lambung ","1",NULL
+"264","253","IGD.11","Feeding tube ( pemberian makanan melalui NGT )","1",NULL
+"265","253","IGD.12","Pemasangan Oksigen","1",NULL
+"266","253","IGD.13","Pemasangan EKG","1",NULL
+"267","253","IGD.14","Ektraksi corpus alenium","1",NULL
+"268","253","IGD.15","Pasang spalk","1",NULL
+"269","253","IGD.16","Perawatan Luka Besar","1",NULL
+"270","253","IGD.17","Perawatan Luka Sedang","1",NULL
+"271","253","IGD.18","Perawatan Luka Kecil","1",NULL
+"272","253","IGD.19","Cross insisi","1",NULL
+"273","253","IGD.20","AFF heacting","1",NULL
+"274","253","IGD.21","Nebulizer","1",NULL
+"275","253","IGD.22","Suction","1",NULL
+"276","253","IGD.23","Pemasangan Transfusi darah","1",NULL
+"277","253","IGD.24","Prosedur kecil pada anus/rectum","1",NULL
+"278","253","IGD.25","Intubasi","1",NULL
+"279","253","IGD.26","Blast punctie","1",NULL
+"280","253","IGD.27","Resusitasi Jantung paru","1",NULL
+"281","253","IGD.28","Tampon hidung","1",NULL
+"282","253","IGD.29","Corpus lineum kornea","1",NULL
+"283","253","IGD.30","Ekstarpasi Kecil","1",NULL
+"284","253","IGD.31","Ekstarpasi Besar","1",NULL
+"285","253","IGD.32","Pemberian kloril etil Sedikit","1",NULL
+"286","253","IGD.33","Pemberian kloril etil Banyak","1",NULL
+"287","253","IGD.34","Skin truction","1",NULL
+"288","253","IGD.35","Skeletal trauction","1",NULL
+"289","253","IGD.36","Pasang gips tanpa narkose","1",NULL
+"290","253","IGD.37","Aspirasi sendi","1",NULL
+"291","253","IGD.38","Long arm plester","1",NULL
+"292","253","IGD.39","Short leg plester","1",NULL
+"293","253","IGD.40","Long leg plester","1",NULL
+"294","253","IGD.41","Punktie pleura","1",NULL
+"295","253","IGD.42","Pucktie peritoneum","1",NULL
+"296","253","IGD.43","Blast fungsie","1",NULL
+"297","253","IGD.44","Klisma / Huknah","1",NULL
+"298","253","IGD.45","Dermabrasi kecil","1",NULL
+"299","253","IGD.46","Dermabrasi luas","1",NULL
+"300","253","IGD.47","Kardioversi","1",NULL
+"301","253","IGD.48","Defibrilation","1",NULL
+"302","253","IGD.49","Sirkumsisi dengan indikasi medis tertentu","1",NULL
+"303","253","IGD.50","Pemasangan Endotraheal tube","1",NULL
+"304","253","IGD.51","Pemberian Tetanus Toxoid","1",NULL
+"305","253","IGD.52","Bed side monitor","1",NULL
+"306","253","IGD.53","Katerangan jasa raharja","1",NULL
+"307","253","IGD.54","Layanan ambulans TGC","1",NULL
+"308","253","IGD.55","Layanan ambulans P3K","1",NULL
+"309","253","IGD.56","Konsul dokter umum","1",NULL
+"310","77","Mata.13","Autorefkaratometri","1",NULL
+"311","77","Mata.14","Aff Heacting","1",NULL
+"312","77","Mata.15","USG Mata","1",NULL
+"313",NULL,"Bedah","Poli Bedah","1",NULL
+"314","313","Bedah.1","Injeksi Kostikosteroid","1",NULL
+"315","313","Bedah.2","Pasang Kateter urethra","1",NULL
+"316","313","Bedah.3","Perawatan Luka Besar","1",NULL
+"317","313","Bedah.4","Perawatan Luka Sedang","1",NULL
+"318","313","Bedah.5","Perawatan luka  Kecil","1",NULL
+"319","313","Bedah.6","Aff Heacting","1",NULL
+"320","313","Bedah.7","Pasang Tampon","1",NULL
+"321","313","Bedah.8","Rectal Toucher","1",NULL
+"322","313","Bedah.9","Aff Kateter","1",NULL
+"323","313","Bedah.10","Sekunder Heacting","1",NULL
+"324","313","Bedah.11","Eksterpasi Kecil","1",NULL
+"325","313","Bedah.12","Eksterpasi Besar","1",NULL
+"326","313","Bedah.13","Sirkumsisi Biasa","1",NULL
+"327","313","Bedah.14","Pemberian Cloeril Etil Sedikit","1",NULL
+"328","313","Bedah.15","Pemberian Cloeril Etil Banyak","1",NULL
+"329","313","Bedah.16","Cross Insisi","1",NULL
+"330",NULL,"PoliObgyn","Poli Obgyn","1",NULL
+"331","330","PoliObgyn.01","Vagina Toucher ( VT )","1",NULL
+"332","330","PoliObgyn.02","Vagina Toilet","1",NULL
+"333","330","PoliObgyn.03","Perawatan luka pasca operasi","1",NULL
+"334","330","PoliObgyn.04","Aff Hecting","1",NULL
+"335","330","PoliObgyn.05","Pap smear","1",NULL
+"336",NULL,"KulKel","Poli Kulit dan Kelamin","1",NULL
+"337","336","KulKel.1","Pemeriksaan KOH","1",NULL
+"338","336","KulKel.2","Pemeriksaan non kosmetik Injeksi kostikosteroid","1",NULL
+"339","336","KulKel.3","Pemeriksaan non kosmetik Elektrokauter Besar","1",NULL
+"340","336","KulKel.4","Pemeriksaan non kosmetik Elektrokauter Sedang","1",NULL
+"341","336","KulKel.5","Pemeriksaan non kosmetik Elektrokauter Kecil","1",NULL
+"342","336","KulKel.6","Pemeriksaan non kosmetik Ektripasi/eksisi Besar","1",NULL
+"343","336","KulKel.7","Pemeriksaan non kosmetik Ektripasi/eksisi Kecil","1",NULL
+"344","336","KulKel.8","Pemeriksaan non kosmetik Ennukleasi Moluscum Besar","1",NULL
+"345","336","KulKel.9","Pemeriksaan non kosmetik Ennukleasi Moluscum Kecil","1",NULL
+"346","336","KulKel.10","Pemeriksaan non kosmetik Biopsi Kecil","1",NULL
+"347","336","KulKel.11","Pemeriksaan non kosmetik Biopsi Sedang","1",NULL
+"348","336","KulKel.12","Pemeriksaan non kosmetik Slit Skin Smear","1",NULL
+"349","336","KulKel.13","Pemeriksaan non kosmetik Slit Skin Smear","1",NULL
+"350","336","KulKel.14","Pemeriksaan non kosmetik Insisi Drainase Abses","1",NULL
+"351","336","KulKel.15","Pemeriksaan non kosmetik Aff Hecting","1",NULL
+"352","336","KulKel.16","Ganti verban /rawat luka/kompres NaCL 0,9% Luka Kecil","1",NULL
+"353","336","KulKel.17","Ganti verban /rawat luka/kompres NaCL 0,9% Luka Sedang","1",NULL
+"354","336","KulKel.18","Ganti verban /rawat luka/kompres NaCL 0,9% Luka Besar","1",NULL
+"355","336","KulKel.19","Pemeriksaan genetalia Spekulum","1",NULL
+"356","336","KulKel.20","Pemeriksaan genetalia Apusan NaCL 0,9%s","1",NULL
+"357","336","KulKel.21","Pemeriksaan genetalia Tes Acetowhite","1",NULL
+"358","336","KulKel.22","Pemeriksaan genetalia Tes KOH 10% ( Whiff Tes )","1",NULL
+"359","336","KulKel.23","Pemeriksaan genetalia Pap Smear","1",NULL
+"360","336","KulKel.24","Pemeriksaan genetalia Apusan Gram","1",NULL
+"361","336","KulKel.25","Pemeriksaan genetalia Tzank Test","1",NULL
+"362","336","KulKel.26","Pemeriksaan Genital Pria","1",NULL
+"363","336","KulKel.27","Prick Test ( Tes Alergi )","1",NULL
+"364","336","KulKel.28","Patch Test/Photo-patch","1",NULL
+"365","336","KulKel.29","Sirkum biasa","1",NULL
+"366","336","KulKel.30","Dermabrasi kecil","1",NULL
+"367","336","KulKel.31","Dermabrasi luas","1",NULL
+"368","336","KulKel.32","Injeksi Intramuscular","1",NULL
+"369","336","KulKel.33","Wood lamp","1",NULL
+"370","336","KulKel.34","Injeksi kortikosteroid","1",NULL
+"371","336","KulKel.35","Elektrokauter Besar","1",NULL
+"372","336","KulKel36","Elektrokauter Sedang","1",NULL
+"373","336","KulKel.37","Elektrokauter Kecil","1",NULL
+"374","336","KulKel.38","Puncture Besar","1",NULL
+"375","336","KulKel.39","Puncture Sedang","1",NULL
+"376","336","KulKel.40","Puncture Kecil","1",NULL
+"377","336","KulKel.41","Facial M. Bubuk","1",NULL
+"378","336","KulKel.42","Facial M. Topeng","1",NULL
+"379","336","KulKel.43","Peeling AHA","1",NULL
+"380","336","KulKel.44","Peeling TCA","1",NULL
+"381","336","KulKel.45","Peeling Jessner","1",NULL
+"382","336","KulKel.46","Mikrodermabrasi Ringan","1",NULL
+"383","336","KulKel.47","Mikrodermabrasi Sedang","1",NULL
+"384","336","KulKel.48","Mikrodermabrasi Berat","1",NULL
+"385","336","KulKel.49","Injeksi Vitamin C/ kolagen/antioksidan","1",NULL
+"386","336","KulKel.50","Drip cocktail","1",NULL
+"387","336","KulKel.51","Filler","1",NULL
+"388","336","KulKel.52","Injeksi Botulinum toksin Rejuvenation","1",NULL
+"389","336","KulKel.53","Injeksi Botulinum toksin Bromhidrosis","1",NULL
+"390","336","KulKel.54","Injeksi Botulinum toksin Hiperhidrosis","1",NULL
+"391","336","KulKel.55","Skin Needling","1",NULL
+"392","90","TNO.83","Aff Infus","1",NULL
+"393","90","TNO.84","Mengantar Pasien","1",NULL
+"394","90","TNO.85","Kompres","1",NULL
+"395","201","Anak33","Aff Transfusi Darah","1",NULL
+"396","177","Obgyn.54","BJA","1",NULL
+"397","39","Gigi19","tindakan baru","1",NULL
+"398","177","Obgyn.24","Pemberian Obat Supposutoria Obat / Anus","1",NULL
+"399","177","Obgyn.25","Injeksi IV / IM / SC","1",NULL
+"400","177","Obgyn.26","Pasang Infus / Aff Infus","1",NULL
+"401","177","Obgyn.27","Transfusi / Aff","1",NULL
+"402","177","Obgyn.28","Pasang Cateter / Aff","1",NULL
+"403","177","Obgyn.29","Skin Test","1",NULL
+"404","177","Obgyn.30","Ganti Balutan OP","1",NULL
+"405","177","Obgyn.31","Cabut Benang / Hecting","1",NULL
+"406","177","Obgyn.32","BJA","1",NULL
+"407","177","Obgyn.33","Drip Obat","1",NULL
+"408","177","Obgyn.34","Ambil Sampel Darah","1",NULL
+"409","177","Obgyn.35","Bakar Urine","1",NULL
+"410","177","Obgyn.36","Vulva Higiene","1",NULL
+"411","177","Obgyn.37","Terima Pasien Anamnesa","1",NULL
+"412","177","Obgyn.38","Ganti Cairan","1",NULL
+"413","177","Obgyn.39","Eksplorasi Vagina","1",NULL
+"414","177","Obgyn.40","Peterperium Nifas","1",NULL
+"415","177","Obgyn.41","Ganti Balutan Luka Operasi","1",NULL
+"416","177","Obgyn.42","Ambil Sampel Darah","1",NULL
+"417","177","Obgyn.43","Palpasi Abdomen","1",NULL
+"418","177","Obgyn.44","Pasang Oksigen","1",NULL
+"419","177","Obgyn.45","Tampon Vagina","1",NULL
+"420","177","Obgyn.46","Tampon Uterus","1",NULL
+"421","177","Obgyn.47","Persalinan dgn Penyulit (Induksi, Sungsang, Gemeli, Versi Ekstrasi, Ekstrasi Vacum, Distosia Bahu)","1",NULL
+"422","177","Obgyn.48","Operasi Pervaginam (Curetase, Manual Plasenta)","1",NULL
+"423","177","Obgyn.55","Episiotomy, Perineum","1",NULL
+"424","177","Obgyn.49","Hecting Ruptur Perineum","1",NULL
+"425","177","Obgyn.50","Amniotomi","1",NULL
+"426","177","Obgyn.51","Penjahitan Portio","1",NULL
+"427","177","Obgyn.52","Kompresi Bimanual External","1",NULL
+"428","177","Obgyn.53","Kompresi Bimanual Internal","1",NULL

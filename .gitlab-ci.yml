@@ -1,0 +1,28 @@
+image: php:7.1-alpine
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+# Select what we should cache
+cache:
+  paths:
+  - vendor/
+
+before_script:
+- apk add --update git icu-dev freetype-dev libjpeg-turbo-dev libmcrypt-dev libpng-dev composer curl zip unzip
+- git submodule update --init --recursive
+- git submodule sync --recursive
+- docker-php-ext-install bcmath calendar gd iconv intl mbstring mysqli opcache pdo_mysql zip > /dev/null
+
+# Install composer dependencies
+- cp .env.gitlab .env
+- cp containers/workspace/conf.d/memory-limit.ini /usr/local/etc/php/conf.d/
+- composer install
+- php artisan key:generate
+- php artisan config:cache
+- php artisan passport:keys
+- php -v
+- php -i | grep version
+test:app:
+  script:
+  - vendor/bin/phpunit -v --colors --stderr --

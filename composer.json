@@ -1,0 +1,78 @@
+{
+    "name": "laravel/laravel",
+    "type": "project",
+    "description": "The Laravel Framework Starter Pack.",
+    "keywords": [
+        "framework",
+        "laravel",
+        "scaffolding"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.1.3",
+        "bensampo/laravel-enum": "^1.16",
+        "fideloper/proxy": "^4.0",
+        "laravel/framework": "5.7.*",
+        "laravel/passport": "^7.0",
+        "laravel/tinker": "^1.0",
+        "reinink/advanced-eloquent": "^0.2.0",
+        "symfony/yaml": "^4.1"
+    },
+    "require-dev": {
+        "beyondcode/laravel-dump-server": "^1.0",
+        "doctrine/dbal": "^2.8",
+        "filp/whoops": "^2.0",
+        "fzaninotto/faker": "^1.4",
+        "laravel/telescope": "^1.0",
+        "mockery/mockery": "^1.0",
+        "nunomaduro/collision": "^2.0",
+        "phpunit/phpunit": "^7.0"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "dont-discover": []
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Sty\\": "shared/"
+        },
+        "files": [
+            "app/Helpers.php"
+        ],
+        "classmap": [
+            "database/seeds",
+            "database/factories"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "scripts": {
+        "post-autoload-dump": [
+            "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
+            "@php artisan package:discover --ansi"
+        ],
+        "post-root-package-install": [
+            "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+        ],
+        "post-create-project-cmd": [
+            "@php artisan key:generate --ansi"
+        ],
+        "test"   : "cd containers && docker-compose exec -T workspace vendor/bin/phpunit -v --colors --stderr",
+        "artisan": "cd containers && docker-compose exec -T workspace php artisan",
+        "serve"  : "cd containers && docker-compose up -d nginx mariadb phpmyadmin",
+        "stop"   : "cd containers && docker-compose stop",
+        "down"   : "cd containers && docker-compose down"
+    }
+}

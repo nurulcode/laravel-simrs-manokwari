@@ -1,0 +1,113 @@
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/dist/css/bootstrap.css';
+@import "~@coreui/coreui/scss/coreui";
+@import '~bootstrap-vue/dist/bootstrap-vue.css';
+
+@import "./sidebar";
+@import "../js/shared/sass/datepicker";
+@import "../js/shared/sass/loading-overlay";
+@import "../js/shared/sass/multiselect";
+@import "../js/shared/sass/toastr";
+
+body > noscript {
+    height    : 100%;
+    padding   : 5% 0 0 0;
+    position  : fixed;
+    width     : 100%;
+    z-index   : 99999;
+    text-align: center;
+}
+
+a, button:focus, button:active,  {
+    outline: 0;
+}
+
+.app-body .main .content {
+    height: calc(100vh - 197px);
+}
+
+.container-fluid > .tabs,
+.container > .tabs {
+    margin-bottom: 1.5rem;
+}
+
+.invalid-feedback {
+    font-size: 1em;
+}
+
+.form-group {
+    ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: #adadad;
+        font-weight: normal;
+        opacity: 1; /* Firefox */
+    }
+
+    :-ms-input-placeholder { /* Internet Explorer 10-11 */
+        color: #adadad;
+        font-weight: normal;
+    }
+
+    ::-ms-input-placeholder { /* Microsoft Edge */
+        color: #adadad;
+        font-weight: normal;
+    }
+
+    .form-control,
+    .input-group-text,
+    .input-group .btn {
+        -webkit-transition: none !important;
+        -moz-transition:    none !important;
+        -o-transition:      none !important;
+        transition:         none !important;
+    }
+
+    .input-group-prepend .btn, .input-group-append .btn {
+        z-index: 2;
+    }
+
+    &.is-valid {
+        .form-control,
+        .input-group-text,
+        .input-group .btn {
+            border-color: $form-feedback-valid-color;
+        }
+    }
+    &.is-invalid {
+        .form-control,
+        .input-group-text,
+        .input-group .btn {
+            border-color: $form-feedback-invalid-color;
+        }
+    }
+}
+
+.card > .tabs {
+    > .tab-content {
+        background: transparent;
+        border    : none;
+
+        .tab-pane.card-body {
+            padding: 1.25rem;
+        }
+    }
+
+    > .card-header {
+        .card-header-tabs {
+            margin-top   : 0;
+            margin-bottom: -.75rem;
+            border-bottom: 0;
+        }
+
+        .nav-tabs .nav-link:hover {
+            border-bottom: 1px solid transparent;
+        }
+
+        .nav-tabs .nav-link.active {
+            border-top: 1px solid;
+            border-color: #dee2e6 #dee2e6 #fff;
+        }
+    }
+}

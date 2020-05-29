@@ -1,0 +1,498 @@
+1,ALLOPURINOL 100MG,Tablet,1,1,0
+2,AMOXICILIN 500MG,Tablet,1,1,0
+3,ANTALGIN 500MG,Tablet,1,1,0
+4,CAPTOPRIL 25 MG,Tablet,1,1,0
+5,CLINDAMISIN 150MG,Kapsul,1,1,0
+6,CLINDAMISIN 300MG,Kapsul,1,1,0
+7,CLONIDIN 0.15MG TAB,Tablet,1,1,0
+8,MERTIGO,Tablet,1,2,0
+9,DEXTROMETHORFAN  TAB,Tablet,1,1,0
+10,DIMENHIDRINATE,Tablet,1,1,0
+11,DOMPERIDON TAB,Tablet,1,1,0
+12,ERYTROMISIN 500MG,Tablet,1,1,0
+13,ETAMBUTOL 500MG,Tablet,1,1,0
+14,FAMOTIDIN 20 MG,Tablet,1,1,0
+15,FLUCONAZOLE,Tablet,1,1,0
+16,FUROSEMIDE,Tablet,1,1,0
+17,GLIMEPIRIDE 2MG,Tablet,1,1,0
+18,IBUPROFEN 400MG,Tablet,1,1,0
+19,INH 100MG,Tablet,1,1,0
+20,LANSOPRAZOLE,Tablet,1,1,0
+21,LORATADIN 10 MG,Tablet,1,1,0
+22,METHYL PREDNISOLON 16MG,Tablet,1,1,0
+23,METOKLORPAMIDE  10 mg,Tablet,1,1,0
+24,METRONIDAZOLE 500MG,Tablet,1,1,0
+25,NATRIUM DIKLOFENAK 25 MG,Tablet,1,1,0
+26,NIFEDIPIN 10 MG,Tablet,1,1,0
+27,OFLOXACIN 200MG,Tablet,1,1,0
+28,PAPAVERIN,Tablet,1,1,0
+29,PARACETAMOL 500MG,Tablet,1,1,0
+30,PIRACETAM TAB 400 MG,Tablet,1,1,0
+31,PIRAZINAMIDE 500,Tablet,1,1,0
+32,PIROXICAM 20MG,Tablet,1,1,0
+33,RIFAMPISIN 300MG,Tablet,1,1,0
+34,SALBUTAMOL 4MG,Tablet,1,1,0
+35,VITAMIN B12 TAB,Tablet,1,1,0
+36,GENTAMYCIN EYE DROP,Botol,1,1,0
+37,ZINC TAB,Tablet,1,1,0
+38,ABU SERUM,VIAL,1,1,0
+39,ACTRAPID INJ,VIAL,1,2,0
+40,ACYCLOVIR 200MG,Tablet,1,1,0
+41,ACYCLOVIR 5%,Tube,1,1,0
+42,ALBAPURE HUMAN ALBUMIN 20% 50 ML,Botol,1,2,0
+43,ALLOPURINOL 300MG,Tablet,1,1,0
+44,AMBROXOL 30 MG TAB,Tablet,1,1,0
+45,AMINOFILIN 200 MG TAB,Tablet,1,1,0
+46,AMLODIPIN 10 MG,Tablet,1,1,0
+47,AMLODIPIN 5MG,Tablet,1,1,0
+48,AMOBIOTIC,VIAL,1,2,0
+49,ANEMOLAT,Tablet,1,2,0
+50,ANTALGIN INJ,Ampul,1,1,0
+51,ANTALGIN INJ,Ampul,1,1,0
+52,ASAM MEFENAMAT 500 MG,Tablet,1,1,0
+53,ASAM TRANEXAMAT 500MG TAB,Tablet,1,1,0
+54,ATS SERUM,Ampul,1,1,0
+55,B KOMPLEX,Tablet,1,1,0
+56,B1 INJ,Ampul,1,1,0
+57,BECARBON,Tablet,1,2,0
+58,BISOPROLOL FUMARAT,Tablet,1,1,0
+59,CANDESARTAN 16MG,Tablet,1,1,0
+60,CANDESARTAN 8MG,Tablet,1,1,0
+61,CEFTADIZIME INJ,VIAL,1,1,0
+62,CETIRIZINE 10MG,Tablet,1,1,0
+63,CHLORAMFENIKOL SALEP MATA,Tube,1,1,0
+64,CIMETIDINE 200MG TAB,Tablet,1,1,0
+65,CITICOLIN INJ,Ampul,1,1,0
+66,CLORAMFENIKOL 250MG TAB,Kapsul,1,1,0
+67,CLOROQUIN TAB,Tablet,1,1,0
+68,PAPAVERIN,Tablet,1,1,0
+69,CO-AMOXICLAV 625 MG,Tablet,1,1,0
+70,COTRIMOXAZOLE 480MG,Tablet,1,1,0
+71,CPG / CLOPIDOGREL 75 MG,Tablet,1,1,0
+72,CURCUMA TAB,Botol,1,2,0
+73,DEXA 0.5 MG TAB,Botol,1,1,0
+74,DEXAMETASON INJ,Ampul,1,1,0
+75,DIGOXIN,Tablet,1,1,0
+76,DILTIAZEM,Tablet,1,1,0
+77,DIPHENHIDRAMIN INJ,Ampul,1,1,0
+78,DOXISIKLIN 100 MG,Kapsul,1,1,0
+79,DULCOLAX SUPPO,Suppo,1,2,0
+80,DULCOLAX TAB,Tablet,1,2,0
+81,EPHINEFRIN INJ,Ampul,1,1,0
+82,Erytromisin 250,Tablet,1,1,0
+83,ETAMBUTOL 500MG,Tablet,1,1,0
+84,FAMOTIDIN 20 MG,Tablet,1,1,0
+85,GELAFUSAL,Kolf,1,2,0
+86,GLISERIL GUAICOLA,Tablet,1,1,0
+87,GUARDIX SOL 5 g,Kolf,1,2,0
+88,HALOTAN ,Botol,1,1,0
+89,HCT / HIDROCLORTIAZIDE,Tablet,1,1,0
+90,HEMOLOK,Tube,1,2,0
+91,HIDROCORTISON CREAM,Tube,1,1,0
+92,IBUPROFEN 200MG,Tablet,1,1,0
+93,IBUPROFEN 200MG STRIP,Tablet,1,1,0
+94,INH 300MG,Tablet,1,1,0
+95,INTERHISTIN,Tablet,1,2,0
+96,INVICLOT HEPARIN,VIAL,1,2,0
+97,ITRAKONAZOLE,Tablet,1,1,0
+98,KALIUM DIKLOFENAK ,Tablet,1,1,0
+99,KETOKONAZOLE CREAM,Tube,1,1,0
+100,KETOPROFEN ,Tablet,1,1,0
+101,KETOROLAC TAB,Tablet,1,1,0
+102,KUTOIN 100MG,Kapsul,1,2,0
+103,KUTOIN INJ,Ampul,1,2,0
+104,LEVOFLOXACIN 500MG,Tablet,1,1,0
+105,LIDOCAIN COMP INJ /ADRENALIN,Ampul,1,1,0
+106,LIDOCAIN INJ,Ampul,1,1,0
+107,MELOXICAM 7.5MG,Tablet,1,1,0
+108,METFORMIN 500 MG,Tablet,1,1,0
+109,METHYL PREDNISOLON 4MG,Tablet,1,1,0
+110,MEYLON,Kolf,1,1,0
+111,MYCONAZOLE CREAM,Tube,1,1,0
+112,NOCOBA,Ampul,1,2,0
+113,NORMUDAL,Tablet,1,2,0
+114,OFLOXACIN 400MG,Tablet,1,1,0
+115,OXITETRASIKLIN SALEP KULIT 3%,Tube,1,1,0
+116,OXITETRASIKLIN SALEP MATA 1%,Tube,1,1,0
+117,PIRACETAM INJ,Ampul,1,1,0
+118,PPDRT 23,VIAL,1,1,0
+119,PRONALGES SUPPO,Suppo,1,2,0
+120,PROPIRETIC 160MG,Suppo,1,2,0
+121,PROPIRETIC 240MG,Suppo,1,2,0
+122,PROPIRETIC 80 MG,Suppo,1,2,0
+123,PTU PROPHYL TIO URASIL,Tablet,1,1,0
+124,QUININE 2222 MG TAB,Tablet,1,1,0
+125,QUININE INJ,Ampul,1,1,0
+126,RAMIPRIL,Tablet,1,1,0
+127,RIFAMPISIN 600MG,Tablet,1,1,0
+128,SALBUTAMOL 2MG,Tablet,1,1,0
+129,SALISIL POWDER,Pot,1,1,0
+130,SF SULFA FERROSUS,Tablet,1,1,0
+131,SIMVASTATIN 10 MG,Tablet,1,1,0
+132,SOHOBION 5000,Tablet,1,2,0
+133,STESOLID RECTAL,Rectal,1,2,0
+134,SULFADOXIN PIRIMETAMIN,Tablet,1,1,0
+135,TRAMADOLINJ,Ampul,1,1,0
+136,VITAMIN C INJ,Ampul,1,1,0
+137,KETOROLAC 30MG/ML,Ampul,1,1,0
+138,NEO K INJ VITAMIN K,Ampul,1,2,0
+139,PHYTOMENADION INJ / VIT K,Ampul,1,1,0
+140,AMIKASIN INJ,VIAL,1,2,0
+141,NS PIGGY BAG,Kolf,1,1,0
+142,D5% PIGGY BAG,Kolf,1,1,0
+143,KETAMIN 50MG/ML,VIAL,1,2,0
+144,ANTI MALARIA,Tablet,1,1,0
+145,ARTESUNAT INJ,Ampul,1,1,0
+146,BENZATIN BENZIL PENISILIN,VIAL,1,1,0
+147,CA GLUKONAS 100MG/ML,Ampul,1,1,0
+148,CLORAMFENIKOL 250MG TAB,Kapsul,1,1,0
+149,COTRIMOXAZOLE 480MG,Tablet,1,1,0
+150,DEXA 0.5 MG TAB,Tablet,1,1,0
+151,DEXAMETASONE INJ,Ampul,1,1,0
+152,EPINEFRIN INJ,Ampul,1,1,0
+153,EXTRACT BELLADON,Tablet,1,1,0
+154,FENOL GLISERIN,Botol,1,1,0
+155,GENTAMISIN SK,Ampul,1,1,0
+156,GG 100MG,Tablet,1,1,0
+157,MUCOHEXIN,Tablet,1,2,0
+158,MYOMERGIN INJ,Ampul,1,2,0
+159,NATRIUM BICARBONAT,Tablet,1,1,0
+160,ORALIT,Sachet,1,1,0
+161,PEHATRIM FORTE,Tablet,1,2,0
+162,PHYTOMENADION TAB,Tablet,1,1,0
+163,PREDNISON 5 MG,Tablet,1,1,0
+164,PRIMAKUIN 15MG,Tablet,1,1,0
+165,SALEP 24,Pot,1,1,0
+166,VITAMIN C TAB 50 MG,Tablet,1,1,0
+167,Ringer Laktat infus 500 ml,Kolf,1,1,0
+168,D5% infus 500 ml,Kolf,1,1,0
+169,NaCl 0.9% infus,Kolf,1,1,0
+170,RLD,Kolf,1,1,0
+171,KAEN IB,Kolf,1,1,0
+172,KAEN 3A,Kolf,1,1,0
+173,KAEN 3B,Kolf,1,1,0
+174,KAEN IB,Kolf,1,1,0
+175,D10%,Kolf,1,1,0
+176,MANITOL,Kolf,1,1,0
+177,KIDMIN INFUS,Kolf,1,2,0
+178,BETADIN 300 ML,Botol,1,1,0
+179,CTM 4 MG,Tablet,1,1,0
+180,TETRASIKLIN 250 MG,Kapsul,1,1,0
+181,ACYCLOVIR 5% CREAM,Tube,1,1,0
+182,ADONA AC INJEKSI,Ampul,1,2,0
+183,AMLODIPIN 5 MG TABLET,Tablet,1,1,0
+184,ANTI HEMOROID SUPPO,Suppo,1,1,0
+185,ATROPIN SULFAT INJEKSI,Ampul,1,1,0
+186,VITAMIN B12 INJEKSI,Ampul,1,1,0
+187,BEROTECT INHALER,Botol,1,2,0
+188,BETAMETASONE CREAM,Tube,1,1,0
+189,BIOPLACENTON ,Tube,1,2,0
+190,BISOLVON INJEKSI,Ampul,1,2,0
+191,CURCUMA TABLET,Tablet,1,2,0
+192,D 40%,Kolf,1,1,0
+193,DECAIN SPINAL 0.5% HEAVY,Ampul,1,2,0
+194,DOMPERIDON 10 MG TABLET,Tablet,1,1,0
+195,ERLAMICETIN EYE DROP,Botol,1,2,0
+196,ETAMBUTOL 500MG TABLET,Tablet,1,1,0
+197,FG TROCHES TABLET,Tablet,1,2,0
+198,GUANISTREP SUSPENSI ,Botol,1,2,0
+199,HERBALACTA KAPSUL,Tablet,1,2,0
+200,KANAMISIN MEYJI 1g,VIAL,1,2,0
+201,KETOKONAZOLE 200MG,Tablet,1,1,0
+202,LONGATIN KAPSUL,Kapsul,1,2,0
+203,MYOMERGIN INJEKSI,Ampul,1,2,0
+204,NEUROSANBE INJEKSI,Ampul,1,2,0
+205,PARACETAMOL INFUS,Botol,1,1,0
+206,PARATUSIN SYRUP,Botol,1,2,0
+207,PARATUSIN TABLET,Tablet,1,2,0
+208,PHYTOMENADION TABLET,Tablet,1,1,0
+209,PK POWDER,Pot,1,1,0
+210,SANBE PLEX DROP,Botol,1,2,0
+211,SEPTODONT,Ampul,1,2,0
+212,SPIRONOLACTON TABLET,Tablet,1,1,0
+213,TETRASIKLIN 250 MG KAPSUL,Kapsul,1,1,0
+214,VALVIR 500MG TABLET,Tablet,1,2,0
+215,VITAMIN C 50 MG TABLET,Tablet,1,1,0
+216,AMBROXOL SYRUP,Botol,1,1,0
+217,AMINOFILIN 200 MG TABLET,Tablet,1,1,0
+218,AMINOFILIN INJEKSI,Ampul,1,1,0
+219,AMLODIPIN 10 MG TABLET,Tablet,1,1,0
+220,AMLODIPIN 5MG TABLET,Tablet,1,1,0
+221,AMOXICILIN SYRUP,Botol,1,1,0
+222,ANTASIDA SYRUP,Botol,1,1,0
+223,ANTASIDA TABTABLET,Tablet,1,1,0
+224,ASAM TRANEXAMAT INJEKSI,Ampul,1,1,0
+225,ATROPIN SULFAT,Ampul,1,1,0
+226,BETAMETASON,Tube,1,1,0
+227,CEFADROXIL 500MG,Kapsul,1,1,0
+228,CEFADROXIL SYRUP,Botol,1,1,0
+229,CEFIXIME 100MG TABLET,Tablet,1,1,0
+230,CEFIXIME SYRUP,Botol,1,1,0
+231,CEFOTAXIM 1g INJEKSI,VIAL,1,1,0
+232,CEFTRIAXON 1g INJEKSI,VIAL,1,1,0
+233,CETJRIZINE 10MG TABLET,Tablet,1,1,0
+234,CIPROFLOXACIN 500MG TABLET,Tablet,1,1,0
+235,DEXAMETASON INJEKSI,Ampul,1,1,0
+236,DIPHENHIDRAMIN INJEKSI,Ampul,1,1,0
+237,DOMPERIDON SYRUP,Botol,1,1,0
+238,EPHINEFRIN INJEKSI,Ampul,1,1,0
+239,GENTAMISIN INJEKSI,Ampul,1,1,0
+240,IBUPROFEN 200MG TABLET,Tablet,1,1,0
+241,IBUPROFEN 400MG TABLET,Tablet,1,1,0
+242,IBUPROFEN SYR 100 mg/ml,Botol,1,1,0
+243,KCL OTSU ,Kolf,1,1,0
+244,KETOKONAZOLE 200MG TABLET,Tablet,1,1,0
+245,METHYL ERGOMETRIN TABLET,Tablet,1,1,0
+246,METRONIDAZOLE INFUS,Botol,1,1,0
+247,OMEPRAZOLE INJEKSI,Tablet,1,1,0
+248,OMEPRAZOLE INJEKSI,VIAL,1,1,0
+249,ONDANSETRON 4MG TABLET,Tablet,1,1,0
+250,ONDANSETRON INJ ,Ampul,1,1,0
+251,PARACETAMOL DROP,Botol,1,1,0
+252,PYRANTEL PAMOAT SYRUP,Botol,1,1,0
+253,RANITIDIN INJEKSI,Ampul,1,1,0
+254,SALBUTAMOL 4MG TABLET,Tablet,1,1,0
+255,ZINC TABTABLET,Tablet,1,1,0
+256,ZIRCUM KIDS SYRUP,Botol,1,1,0
+257,ABO Test Golongan Darah,Kitt/8,2,2,0
+258,Abocath 18,Pcs,2,2,0
+259,Abocath 20,Pcs,2,2,0
+260,Abocath 22,Pcs,2,2,0
+261,Abocath 24,Pcs,2,2,0
+262,Alkohol ,Botol,2,2,0
+263,Alkohol glyserin,Botol,2,1,0
+264,Alkohol Swab,Pcs,2,1,0
+265,Aquaderm 20 liter,Jergen,2,2,0
+266,Aquadest 1 L (Otsuka),Pcs,2,1,0
+267,Aqua pro injeksi,Pcs,2,2,0
+268,Barium Sulfat,Bks/1 kg,2,2,0
+269,Benang Cutgut Chromic 0 (Tapper) 75 cm,Pcs,2,2,0
+270,Benang Plain 0 (Tapper) 75 cm (BBraun),Pcs,2,2,0
+271,Benang Promilene 4/0 (cutting) 75 cm,Pcs,2,2,0
+272,Benang Silk 1 (Round bodied) 40 mm. 90 cm,Pcs,2,2,0
+273,Benang T - Chromic 3-0 (Round bodied) 26 mm. 90 cm,Pcs,2,2,0
+274,Benang T - Lene 2-0 (Bodied Tupper) 30 mm. 76 cm,Pcs,2,2,0
+275,Benang T- Chromic 2 (Round bodied) 48 mm. 90 cm,Pcs,2,2,0
+276,Benang T- Lene 2-0 (Reserve cutting) 26 mm. 76 cm,Pcs,2,2,0
+277,Benang T-Lene 0 (Round bodied) 36 mm. 100 cm,Pcs,2,2,0
+278,Benang T-Lene 1 ( Bodied tupper) 40 mm. 100 cm,Pcs,2,2,0
+279,Benang T-Lene 3-0 (Reserve Cutting) 24mm. 76 cm,Pcs,2,1,0
+280,Benang T-Mono 1 (Round bodied) 48 mm. 90 cm,Pcs,2,2,0
+281,Benang T-Mono 3-0 (Reserve cutting) 24 mm. 76 cm,Pcs,2,2,0
+282,Benang T-Plain 3-0 (Round bodied) 25mm. 75 cm,Pcs,2,1,0
+283,Benang T-Plain 2-0 (Round bodied) 25mm. 75 cm P31X,Pcs,2,1,0
+284,Benang T-Vio 0 (Reserve cutting) 40 mm. 90 cm,Pcs,2,2,0
+285,Benang T-Vio 0 (Round bodied) 35 mm. 90 cm V12,Pcs,2,2,0
+286,Benang T-Vio 1 (Round bodied) 40 mm. 90 cm V15,Pcs,2,2,0
+287,Benang T-Vio 1 (Round bodied) 48 mm. 90 cm,Pcs,2,1,0
+288,Benang T-Vio 1 (Tupper cut) 35 mm. 90 cm,Pcs,2,1,0
+289,Benang T-Vio 2-0 (Reserve cutting) 26 mm. 90 cm,Pcs,2,2,0
+290,Benang T-Vio 3-0 (Round bodied) 25 mm. 76 cm,Pcs,2,2,0
+291,Benang vicril 2,Pcs,2,2,0
+292,Bisturi no 10,Pcs,2,2,0
+293,Bisturi no 11,Pcs,2,2,0
+294,Bisturi no 13,Pcs,2,2,0
+295,Bisturi no 15,Pcs,2,2,0
+296,Bisturi no 18,Pcs,2,2,0
+297,Bisturi no 19 (one med),Pcs,2,2,0
+298,Bisturi no 20,Pcs,2,2,0
+299,Bisturi no 24,Pcs,2,2,0
+300,Bisturi no. 12,Pcs,2,2,0
+301,Bisturi no. 14,Pcs,2,2,0
+302,Blood Bag,Pcs,2,2,0
+303,Blood lancet,Pcs,2,2,0
+304,Blood needle 22 GA x 1,Box/50,2,2,0
+305,Box slide isi 100,Box,2,2,0
+306,Box slide isi 50,Box,2,2,0
+307,Cloretyl,Botol,2,2,0
+308,Coller neck,Box,2,2,0
+309,Deg glass,Box/100,2,2,0
+310,Diaspect cuvet,Pcs,2,2,0
+311,Discofix 3 way,Pcs,2,2,0
+312,Dispo  5 cc (one med),Pcs,2,2,0
+313,Dispo  5 cc (Terumo),Pcs,2,2,0
+314,Dispo 1 cc (Terumo),Pcs,2,2,0
+315,Dispo 1 cc (one med),Pcs,2,2,0
+316,Dispo 10 cc (one med),Box/100,2,2,0
+317,Dispo 3 cc (one med),Box/100,2,2,0
+318,Dispo 3 cc (Terumo),Box/100,2,2,0
+319,Dispo 50 cc,Pcs,2,2,0
+320,Developer,Galon,2,2,0
+321,Elastis verban 10 cm (Tensocrepe),Rol,2,2,0
+322,Elastis verban 15 cm (One med),Rol,2,2,0
+323,Elastis verban 15 cm (pro crepe)),Rol,2,2,0
+324,Elastis verban 15 cm (Tensocrepe),Rol,2,2,0
+325,Elastis verban 7.5 cm (One med),Rol,2,2,0
+326,Elastis verban 7.5 cm (Tensocrepe),Rol,2,2,0
+327,Film 18 x 24,Pcs,2,2,0
+328,Film 24 x 30,Pcs,2,2,0
+329,Film 30 x 40,Pcs,2,2,0
+330,Film 35 x 35,Box/100,2,2,0
+331,Fixer,Galon,2,2,0
+332,Folley Cateter no. 12,Pcs,2,2,0
+333,Folley Cateter no. 14,Box/10,2,1,0
+334,Folley Cateter no. 16,Box/10,2,1,0
+335,Folley Cateter no. 18 (three way),Pcs,2,1,0
+336,Folley Cateter no. 20 (three way),Pcs,2,1,0
+337,Folley Cateterno. 6,Pcs,2,1,0
+338,Formalin 1 L,Botol,2,1,0
+339,Formalin 37 % 1 L,Botol,2,1,0
+340,Formalin 5 L,Jergen,2,1,0
+341,Gluco Dr,Pcs,2,1,0
+342,Goodle no 1,Pcs,2,1,0
+343,Goodle no 2,Pcs,2,1,0
+344,Goodle no 3,Pcs,2,1,0
+345,Goodle no 4,Pcs,2,1,0
+346,Goodle no 5,Pcs,2,1,0
+347,Gypsona 10 cm,Rol,2,1,0
+348,Gypsona 15 cm,Rol,2,1,0
+349,Gypsona 7.5 cm,Rol,2,1,0
+350,H2O2 3 %,Botol,2,1,0
+351,H2O2 30 %,Botol,2,1,0
+352,Hand Scrub Anti mikroba (one scrub),Botol,2,1,0
+353,Handscoen Obgyn (panjang),Pcs,2,1,0
+354,Handscoend Steril ,Pcs,2,1,0
+355,Handscoend tissu,Box/50,2,1,0
+356,Hanger  24 x 30,Pcs,2,1,0
+357,Hanger  35 x 35,Pcs,2,1,0
+358,Hanger 18 x 24,Pcs,2,1,0
+359,Hanger 30 x 40,Pcs,2,1,0
+360,HBS Antibody,Box,2,1,0
+361,HBsAg oncoprobe,Box/50,2,1,0
+362,HCV Oncoprobe,Box/50,2,1,0
+363,HCV SD Diagnostic,Box/30,2,1,0
+364,Hemocue (Hb 301),Pcs,2,1,0
+365,HIV Oncoprobe,Box/50,2,1,0
+366,Hypafix 5 x 5 cm,Rol,2,1,0
+367,ID Band Gelang Bayi,Pcs,2,1,0
+368,ID Band Gelang Ibu,Pcs,2,1,0
+369,Infus set anak,Pcs,2,1,0
+370,Infus set dewasa,Pcs,2,1,0
+371,Iopamiro 300,Box,2,1,0
+372,Jarum otot Br 10,Lusin,2,1,0
+373,Jarum otot Br 11,Lusin,2,1,0
+374,Jarum otot Br 12,Lusin,2,1,0
+375,Jarum otot BT 10,Lusin,2,1,0
+376,Jarum otot BT 11,Lusin,2,1,0
+377,Jarum otot BT 12,Lusin,2,1,0
+378,Jarum otot BT 9,Lusin,2,1,0
+379,Jarum Otot Kulit GR 11,Lusin,2,1,0
+380,Jarum Otot Kulit GR 12,Lusin,2,1,0
+381,Jarum Otot Kulit GR 7,Lusin,2,1,0
+382,Jarum Otot Kulit GR 8,Lusin,2,1,0
+383,Jarum Otot Kulit GR 9,Lusin,2,1,0
+384,Jarum Otot Kulit GT 11,Lusin,2,1,0
+385,Jarum Otot Kulit GT 12,Lusin,2,1,0
+386,Jarum Otot Kulit GT 14,Lusin,2,1,0
+387,Jarum Otot Kulit PB 0,Lusin,2,1,0
+388,Jarum Otot Kulit PB 1,Lusin,2,1,0
+389,Jarum Otot Kulit PB 5,Lusin,2,1,0
+390,Jelly lubricating,Tube,2,1,0
+391,Jelly ultrasonic ,Botol,2,1,0
+392,K2 EDTA,Pcs,2,1,0
+393,K3EDTA,Pcs,2,1,0
+394,Kapas 50 gr,Rol,2,1,0
+395,Kapas 500 gr,Rol,2,1,0
+396,Kapas berlemak,Rol,2,1,0
+397,Kapsul 0,Bks,2,1,0
+398,Kapsul 00,Pcs,2,1,0
+399,Kasa Hydrofil 40 yard x 80 cm,Rol,2,1,0
+400,Kasa steril,Box,2,1,0
+401,Kertas Puyer,Bundel,2,1,0
+402,Leukopast 5 cm x 4.5 m,Rol,2,1,0
+403,Masker ear loop ,Pcs,2,1,0
+404,Masker O2 anak,Pcs,2,1,0
+405,Masker O2 dewasa,Pcs,2,1,0
+406,Masker O2 dewasa NRM,Pcs,2,1,0
+407,Masker O2 Bayi,Pcs,2,1,0
+408,Masker tie on (ikat),Pcs,2,1,0
+409,Metanol 2.5 L,Botol,2,1,0
+410,Metanol 2000 ml,Botol,2,1,0
+411,Nasal O2 anak,Pcs,2,1,0
+412,Nasal O2 Bayi ,Pcs,2,1,0
+413,Nasal O2 dewasa,Pcs,2,1,0
+414,NGT 10,Pcs,2,1,0
+415,NGT 12,Pcs,2,1,0
+416,NGT 14,Pcs,2,1,0
+417,NGT 18,Pcs,2,1,0
+418,NGT 3.5,Pcs,2,1,0
+419,NGT 5,Pcs,2,1,0
+420,NGT 6,Pcs,2,1,0
+421,NGT 8,Pcs,2,1,0
+422,Penjepit tali pusar,Pcs,2,1,0
+423,Perfusor 75 cm,Pcs,2,1,0
+424,Povidon iodin 1 Liter,Botol,2,1,0
+425,Povidon iodin 60 ml,Botol,2,1,0
+426,Regulator O2,Box,2,1,0
+427,Sarung tangan Orthopedi,Box/50,2,1,0
+428,Slide (Merah),Pcs,2,1,0
+429,Slide Frosted (Hijau),Pcs,2,1,0
+430,Sofratulle,Pcs,2,1,0
+431,Softband 10 cm,Rol,2,1,0
+432,Softband 15 cm,Rol,2,1,0
+433,Softband 7.5 cm,Rol,2,1,0
+434,Spinocain 25,Pcs,2,1,0
+435,Suction cateter no 10,Pcs,2,1,0
+436,Spinocain 27,Pcs,2,1,0
+437,Sputum pot,Pcs,2,1,0
+438,Sungkup O2 Bayi,Pcs,2,1,0
+439,Syphilips oncoprobe,Box,2,1,0
+440,Topi operasi Ikat  (surgeon cap),Pcs,2,1,0
+441,Topi Operasi Karet(Buffon cap),Pcs,2,1,0
+442,Ultrasonic Gel 250 ml,Botol,2,1,0
+443,Urin Bag,Pcs,2,1,0
+444,Urin container berulir,Pcs,2,1,0
+445,USG Jely 5 Liter,Jergen,2,1,0
+446,Venflon  18,Pcs,2,1,0
+447,Venflon 20,Pcs,2,1,0
+448,Verban 10 cm,Rol,2,1,0
+449,Widal Test,Kitt/8,2,1,0
+450,Wing needle 23,Box,2,1,0
+451,Wing needle 27,Box,2,1,0
+452,Wing needle no. 23 G,Pcs,2,1,0
+453,Wing needle no. 25 G,Pcs,2,1,0
+454,x-Tragene 4  (5 liter),Galon,2,1,0
+455,Yellow tip kuning,Pcs,2,1,0
+456,Benang  T - cromic 3-0 100 M,pcs,2,2,0
+457,Benang cutgut cromic 3/0 (Tupper) 30 mm 75 cm,pcs,2,2,0
+458,Benang T- Chromic 1 (Round bodied) 40 mm 90 cm,pcs,2,2,0
+459,Benang T- Chromic 2 -0(Round bodied) 35 mm 90 cm,pcs,2,2,0
+460,Benang T- Chromic 2 -0(Round bodied) 40 mm 90 cm,pcs,2,2,0
+461,Benang T-Chromic 2-0 100 m,roll,2,2,0
+462,Benang T-lene 2-0 (Round Bondied)30mm 76 cm,pcs,2,2,0
+463,Benang T-Lene 3-0 (Reserve Cutting) 24mm 76 cm L19,pcs,2,2,0
+464,Benang T-Plain 2-0 (Round bodied) 48mm 76 cm,pcs,2,2,0
+465,Benang T-Plain 3-0 (Round bodied) 25mm 75 cm P87x,pcs,2,2,0
+466,Benang T-silk  0 (Round bodied) 30 mm 76 cm,pcs,2,2,0
+467,Benang T-silk  1 (Round bodied) 40 mm 90 cm,pcs,2,2,0
+468,Benang T-silk 2-0  (Reserve cutting) 35 mm 76 cm,pcs,2,2,0
+469,Benang T-silk 2-0  (Round bodied) 25 mm 76 cm,pcs,2,2,0
+470,Benang T-silk 2-0  100 M RS3,pcs,2,2,0
+471,Benang T-silk 3-0 (Reserve cutting) 26 mm 76 cm,pcs,2,2,0
+472,Benang T-silk 3-0 100 m R,roll,2,2,0
+473,Benang T-Vio 1 (Round bodied) 48 mm 90 cm V16,pcs,2,2,0
+474,Benang T-Vio 1 (Tupper cut) 35 mm 90 cm V 14,pcs,2,2,0
+475,Bisturi no 22,pcs,2,2,0
+476,Blood Bag 350 ml,pcs,2,2,0
+477,Cerenisy blood,box,2,2,0
+478,coomb's serum 10 ml,box,2,2,0
+479,Desinfectan,gen,2,2,0
+480,Dental X-Ray,box,2,2,0
+481,dispo 10 cc (Terumo),box,2,2,0
+482,Dispo 20 cc (Terumo),box,2,2,0
+483,Disposible Dental Needles,box,2,2,0
+484,EKG elektroda,pcs,2,2,0
+485,ETT no 2.5,pcs,2,2,0
+486,ETT no 3.0,pcs,2,2,0
+487,ETT no 3.5,pcs,2,2,0
+488,ETT no 4.0,pcs,2,2,0
+489,ETT no 4.5,pcs,2,2,0
+490,ETT no 5.0,pcs,2,2,0
+491,ETT no 5.5,pcs,2,2,0
+492,ETT no 6.0,pcs,2,2,0
+493,ETT no 6.5,pcs,2,2,0
+494,ETT no 7.5,pcs,2,2,0
+495,Folley cateter no 8,box,2,2,0
+496,Folley Cateter no. 18 ,box,2,2,0
+497,Folley Cateter no. 6,box,2,2,0
+498,Giemsa 500 ml,Btl,2,2,0
